@@ -129,7 +129,7 @@ For most sole traders, the simplest setup is:
 
 This gives you:
 
-`£0/month banking + £0/month accounting software`
+**£0/month banking + £0/month accounting software**
 
 👉 It’s the most cost-effective and lowest-effort setup available.
 
