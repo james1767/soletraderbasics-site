@@ -62,6 +62,4 @@ You’ll need:
 
 Make sure you select:
 
-```text
-Self-employed / Sole Trader
-```
+👉 Select: **Self-employed / Sole Trader**
