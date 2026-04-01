@@ -129,14 +129,12 @@ For most sole traders, the simplest setup is:
 
 This gives you:
 
-```text
-£0/month banking + £0/month accounting software
+`£0/month banking + £0/month accounting software`
 
 👉 It’s the most cost-effective and lowest-effort setup available.
 
-If you want to compare FreeAgent against the other main options, start here: [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader)
-
----
+If you want to compare FreeAgent against the other main options, start here:  
+[Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader)
 
 ## Final recommendation
 
@@ -160,10 +158,8 @@ All three are solid — but most sole traders should start with Mettle to get bo
 
 ---
 
-*Disclosure: Some links on this page may be affiliate links. If you choose a product through them, we may earn a commission at no extra cost to you.*
+_Disclosure: Some links on this page may be affiliate links. If you choose a product through them, we may earn a commission at no extra cost to you._
 
 ---
 
-*Last updated: March 2026. Features may change. Always check provider websites for the latest details.*
-
-```
+_Last updated: March 2026. Features may change. Always check provider websites for the latest details._
