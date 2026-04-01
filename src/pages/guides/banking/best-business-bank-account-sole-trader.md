@@ -7,6 +7,10 @@ layout: ../../../layouts/BaseLayout.astro
 
 ## Quick answer
 
+<div class="cta-box">
+  <a href="#" class="cta-button">👉 Open a free Mettle account (includes FreeAgent)</a>
+</div>
+
 **Most sole traders should use a free business bank account like [Mettle](#), [Starling](#), or [Tide](#).**
 
 They’re easy to open, have no monthly fees, and are designed for small businesses and freelancers.
@@ -29,9 +33,19 @@ If you also need software, read this next: [Best Accounting Software for Sole Tr
 - Easy setup and clean mobile app
 - Designed specifically for freelancers and small businesses
 
-👉 If you want banking + accounting sorted in one step, [Mettle](#) is the best option.
+👉 **If you want banking + accounting sorted in one step, Mettle is the best option.**
+
+👉 This is the easiest way to set up both banking and accounting together.
+
+<div class="cta-box">
+  <a href="#" class="cta-button">👉 Open a free Mettle account (includes FreeAgent)</a>
+</div>
 
 Because Mettle includes FreeAgent, it’s worth reading our full guide to [the best accounting software for sole traders](/best/accounting-software-sole-trader) before you decide.
+
+<div class="cta-box">
+  <a href="/best/accounting-software-sole-trader" class="cta-button">👉 Compare accounting software options</a>
+</div>
 
 ---
 
@@ -110,7 +124,7 @@ If you’re unsure, use this:
 
 For most sole traders, the simplest setup is:
 
-👉 Open a [Mettle](#) account  
+👉 Open a Mettle account  
 👉 Use FreeAgent (included for free)
 
 This gives you:

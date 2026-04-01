@@ -1,5 +1,6 @@
 ---
-title: Do I Need a Business Bank Account as a Sole Trader?
+title: "Do I Need a Business Bank Account as a Sole Trader?"
+layout: ../../../layouts/BaseLayout.astro
 ---
 
 # Do I Need a Business Bank Account as a Sole Trader?
@@ -77,4 +78,4 @@ Full comparison: [Best business bank accounts for sole traders](/best/business-b
 
 ---
 
-*Last updated: March 2026.*
+_Last updated: March 2026._

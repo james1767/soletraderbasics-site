@@ -7,6 +7,10 @@ layout: ../../layouts/BaseLayout.astro
 
 ## Quick answer
 
+<div class="cta-box">
+  <a href="#" class="cta-button">👉 Start with FreeAgent (Free via Mettle)</a>
+</div>
+
 **Most sole traders should use [FreeAgent](#).** It’s simple, built for UK freelancers, shows your tax position in real time, and can file your Self Assessment directly to HMRC.
 
 If you want a free option, you can get FreeAgent included with a [Mettle](#) or NatWest business account. See our [best business bank accounts for sole traders](/guides/banking/best-business-bank-account-sole-trader) if you want to compare your options first.
@@ -27,7 +31,11 @@ If you need something more advanced or plan to grow, [Xero](#) is the best alter
 - Invoice, track expenses, and reconcile bank transactions
 - Free if you bank with Mettle, NatWest, or RBS
 
-👉 If you want the simplest setup with the least admin, [FreeAgent](#) is the best choice for most people.
+👉 **If you want the simplest setup with the least admin, FreeAgent is the best choice for most people.**
+
+<div class="cta-box">
+  <a href="#" class="cta-button">👉 Start with FreeAgent (Free via Mettle)</a>
+</div>
 
 ---
 
@@ -58,6 +66,8 @@ If you haven’t opened a business account yet, compare your options here: [Best
 - Handles more complex setups
 
 👉 Choose [Xero](#) if you expect your business to grow or already work with an accountant who uses it.
+
+---
 
 ### 📊 Alternative option: QuickBooks Sole Trader
 
@@ -124,9 +134,17 @@ If you want the simplest, lowest-effort setup:
 
 👉 Use [FreeAgent](#) (ideally via [Mettle](#) for free access)
 
+<div class="cta-box">
+  <a href="#" class="cta-button">👉 Start with FreeAgent (Free via Mettle)</a>
+</div>
+
 If you expect your business to grow or want more advanced features:
 
 👉 Use [Xero](#)
+
+<div class="cta-box">
+  <a href="#" class="cta-button">👉 Try Xero (Best for growing businesses)</a>
+</div>
 
 Either option will handle your bookkeeping properly — the right choice depends on how complex your business is likely to become.
 
