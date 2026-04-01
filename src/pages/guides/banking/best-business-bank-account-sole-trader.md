@@ -140,19 +140,23 @@ If you want to compare FreeAgent against the other main options, start here: [Be
 
 ## Final recommendation
 
-If you’re just starting out:
+If you want the simplest, lowest-effort setup:
 
-👉 Use Mettle￼
+👉 Use Mettle (free + includes FreeAgent)
 
-If you prefer a more traditional banking experience:
+<div class="cta-box">
+  <a href="#" class="cta-button">👉 Open a free Mettle account</a>
+</div>
 
-👉 Use Starling￼
+If you want the best overall banking experience:
 
-If you want speed and flexibility:
+👉 Use Starling
 
-👉 Use Tide￼
+If you want the fastest setup and flexibility:
 
-All three are solid — the best choice depends on how you want to run your business.
+👉 Use Tide
+
+All three are solid — but most sole traders should start with Mettle to get both banking and accounting sorted in one step.
 
 ---
 
