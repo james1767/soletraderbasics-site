@@ -48,9 +48,7 @@ If you don’t want to pay for software:
 
 This is one of the few setups where you get:
 
-```text
-£0/month banking + £0/month accounting software
-```
+**£0/month banking + £0/month accounting software**
 
 If you haven’t opened a business account yet, compare your options here: [Best Business Bank Accounts for Sole Traders](/guides/banking/best-business-bank-account-sole-trader)
 
