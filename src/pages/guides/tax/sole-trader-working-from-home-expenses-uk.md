@@ -29,8 +29,7 @@ When you work from home, many costs are mixed-use. Your electricity, heating, br
 
 That means you cannot usually claim the full bill. Instead, you can only claim the part that relates to your business use.
 
-If you want the bigger picture, see our full list of sole trader expenses:  
-/guides/tax/sole-trader-expenses-list-uk/
+If you want the bigger picture, see our [full list of sole trader expenses](/guides/tax/sole-trader-expenses-list-uk/).
 
 ---
 
@@ -51,8 +50,7 @@ These can include a proportion of:
 • Business phone usage  
 • Repairs and maintenance for the business area
 
-For costs like broadband and phone, see our guide to phone and internet expenses:  
-/guides/tax/sole-trader-phone-internet-expenses-uk/
+For costs like broadband and phone, see our guide to [sole trader phone and internet expenses](/guides/tax/sole-trader-phone-internet-expenses-uk/).
 
 ---
 
@@ -276,6 +274,8 @@ Actual costs may suit you if:
 ## Final answer
 
 Yes — sole traders can claim working from home expenses in the UK, but only the business-use portion.
+
+If you want more detail on related costs, see our [full list of sole trader expenses](/guides/tax/sole-trader-expenses-list-uk/) and our guide to [sole trader phone and internet expenses](/guides/tax/sole-trader-phone-internet-expenses-uk/).
 
 You can either use HMRC’s flat rate or calculate the actual share of household costs.
 
