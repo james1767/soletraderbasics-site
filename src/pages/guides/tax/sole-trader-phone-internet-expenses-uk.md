@@ -35,8 +35,7 @@ For phone and internet, that usually works like this:
 
 Many self-employed people use the same phone and broadband for both work and personal life, so they need to make a reasonable split.
 
-If you want a broader overview, see our full list of sole trader expenses:  
-/guides/tax/sole-trader-expenses-list-uk/
+If you want a broader overview, see our [full list of sole trader expenses](/guides/tax/sole-trader-expenses-list-uk/).
 
 ---
 
@@ -85,6 +84,8 @@ If you pay for a separate internet connection used only for business, you can us
 If your broadband is shared with personal use, you must split the cost.
 
 You should not claim the full bill if your household also uses it privately.
+
+If you also work from home, read our guide to [working from home expenses for sole traders](/guides/tax/sole-trader-working-from-home-expenses-uk/).
 
 ---
 
@@ -246,6 +247,8 @@ In practice, many sole traders use accounting software to track mixed-use expens
 So, can sole traders claim phone and internet costs in the UK?
 
 Yes — but only the business portion.
+
+If you want more detail on related costs, see our [full list of sole trader expenses](/guides/tax/sole-trader-expenses-list-uk/) and our guide to [working from home expenses for sole traders](/guides/tax/sole-trader-working-from-home-expenses-uk/).
 
 If the cost is shared, you must make a reasonable split and only claim what relates to your business.
 
