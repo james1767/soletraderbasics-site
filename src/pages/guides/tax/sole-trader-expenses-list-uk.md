@@ -126,6 +126,8 @@ Ordinary commuting is not usually allowable.
 
 If you run your business from home, you may be able to claim part of your household costs.
 
+If you want a full breakdown, read our guide to [working from home expenses for sole traders](/guides/tax/sole-trader-working-from-home-expenses-uk/).
+
 This can include a business portion of:
 
 • Electricity  
@@ -151,6 +153,8 @@ You work out the business share of your household bills based on reasonable usag
 ## Phone and internet
 
 You can claim business phone and internet costs, but only the business part if there is mixed use.
+
+For more detail, see our guide to [sole trader phone and internet expenses](/guides/tax/sole-trader-phone-internet-expenses-uk/).
 
 Examples include:
 
@@ -317,6 +321,8 @@ Accounting software helps you:
 ## Final thoughts
 
 If you want a reliable sole trader expenses list UK, start with one rule: only claim costs that are wholly and exclusively for your business.
+
+If you want more detail on specific categories, see our guides to [working from home expenses for sole traders](/guides/tax/sole-trader-working-from-home-expenses-uk/) and [sole trader phone and internet expenses](/guides/tax/sole-trader-phone-internet-expenses-uk/).
 
 The most common claimable expenses include equipment, travel, home office costs, phone and internet, marketing, insurance, and professional fees.
 
