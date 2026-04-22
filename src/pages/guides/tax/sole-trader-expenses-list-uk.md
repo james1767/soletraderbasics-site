@@ -1,19 +1,33 @@
----
+/---
 title: "Sole Trader Expenses List UK: What You Can Claim and What You Can’t"
 layout: ../../../layouts/BaseLayout.astro
+
 ---
 
 # Sole Trader Expenses List UK: What You Can Claim and What You Can’t
 
 ## Quick answer
 
-Most sole traders in the UK can claim a wide range of business expenses to reduce their tax bill — including equipment, travel, home office costs, and software.
+A sole trader in the UK can usually claim business expenses such as software, travel, phone bills, working from home costs, equipment, and professional fees.
 
-The key rule is that expenses must be “wholly and exclusively” for business use. If something is used for both personal and business purposes, you can usually only claim the business portion.
+The main HMRC rule is that an expense must be wholly and exclusively for business use. If a cost is partly personal and partly business, you can usually only claim the business portion.
 
-Here’s a simple, complete list of what you can and can’t claim as a sole trader in the UK.
+This guide explains the main sole trader expenses you can claim in the UK, what you cannot claim, and how to keep proper records.
 
 ---
+
+## Most common sole trader expenses in the UK
+
+The most common expenses sole traders can claim include:
+
+- software and subscriptions
+- phone and internet costs
+- working from home expenses
+- travel for business trips
+- equipment and tools
+- marketing and advertising
+- accountant and bookkeeping fees
+- insurance and professional costs
 
 ## What counts as an allowable expense for a sole trader in the UK?
 
@@ -317,6 +331,24 @@ Accounting software helps you:
 /best/accounting-software-sole-trader
 
 ---
+
+## FAQs
+
+### Can a sole trader claim phone bills?
+
+Yes, but only the business-use portion if the phone is also used personally.
+
+### Can a sole trader claim working from home expenses?
+
+Yes. You can usually claim either simplified expenses or the business share of household costs.
+
+### Can a sole trader claim travel expenses?
+
+Yes, if the travel is for business rather than ordinary commuting.
+
+### Can a sole trader claim clothing?
+
+Usually no, unless it is protective clothing or a uniform required for work.
 
 ## Final thoughts
 
