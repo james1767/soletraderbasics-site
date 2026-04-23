@@ -7,17 +7,21 @@ layout: ../../../layouts/BaseLayout.astro
 
 ## Quick answer
 
+This guide compares the best business bank accounts for sole traders in the UK, including Mettle, Starling, and Tide.
+
+If you're looking for a free business account for self-employed UK workers, this page will help you choose the right option.
+
 <div class="cta-box">
-  <a href="#" class="cta-button">👉 Open a free Mettle account (includes FreeAgent)</a>
+  <a href="https://www.mettle.co.uk/" class="cta-button" target="_blank" rel="nofollow">👉 Open a free Mettle account + get FreeAgent included</a>
 </div>
 
-**Most sole traders should use a free business bank account like [Mettle](#), [Starling](#), or [Tide](#).**
+**Most sole traders should use a free business bank account like [Mettle](https://www.mettle.co.uk/), [Starling](https://www.starlingbank.com/), or [Tide](https://www.tide.co/).**
 
 They’re easy to open, have no monthly fees, and are designed for small businesses and freelancers.
 
 👉 If you want the simplest setup, **Mettle is the best starting point** — especially because it includes FreeAgent accounting software at no cost.
 
-If you also need software, read this next: [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader)
+If you also need software, read this next: [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader/)
 
 ---
 
@@ -38,13 +42,13 @@ If you also need software, read this next: [Best Accounting Software for Sole Tr
 👉 This is the easiest way to set up both banking and accounting together.
 
 <div class="cta-box">
-  <a href="#" class="cta-button">👉 Open a free Mettle account (includes FreeAgent)</a>
+  <a href="https://www.mettle.co.uk/" class="cta-button" target="_blank" rel="nofollow">👉 Open a free Mettle account (includes FreeAgent)</a>
 </div>
 
-Because Mettle includes FreeAgent, it’s worth reading our full guide to [the best accounting software for sole traders](/best/accounting-software-sole-trader) before you decide.
+Because Mettle includes FreeAgent, it’s worth reading our full guide to [the best accounting software for sole traders](/best/accounting-software-sole-trader/) before you decide.
 
 <div class="cta-box">
-  <a href="/best/accounting-software-sole-trader" class="cta-button">👉 Compare accounting software options</a>
+  <a href="/best/accounting-software-sole-trader/" class="cta-button">👉 Compare accounting software options</a>
 </div>
 
 ---
@@ -59,7 +63,7 @@ Because Mettle includes FreeAgent, it’s worth reading our full guide to [the b
 - Real-time notifications and spending insights
 - Good for separating personal and business finances
 
-👉 Choose [Starling](#) if you want a “proper bank” feel with modern features.
+👉 Choose [Starling](https://www.starlingbank.com/) if you want a “proper bank” feel with modern features.
 
 ---
 
@@ -72,7 +76,7 @@ Because Mettle includes FreeAgent, it’s worth reading our full guide to [the b
 - Built-in invoicing and expense tools
 - Add-ons available as you grow
 
-👉 [Tide](#) is a good option if you want to get up and running quickly.
+👉 [Tide](https://www.tide.co/) is a good option if you want to get up and running quickly.
 
 ---
 
@@ -134,16 +138,24 @@ This gives you:
 👉 It’s the most cost-effective and lowest-effort setup available.
 
 If you want to compare FreeAgent against the other main options, start here:  
-[Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader)
+[Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader/)
+
+## Comparison table
+
+| Bank     | Best for          | Monthly fee | Key benefit                        |
+| -------- | ----------------- | ----------- | ---------------------------------- |
+| Mettle   | Most sole traders | £0          | Includes FreeAgent (accounting)    |
+| Starling | Everyday banking  | £0          | Strong app + FSCS protection       |
+| Tide     | Fast setup        | £0+         | Quick onboarding + invoicing tools |
 
 ## Final recommendation
 
 If you want the simplest, lowest-effort setup:
 
-👉 Use Mettle (free + includes FreeAgent)
+👉 Use [Mettle](https://www.mettle.co.uk/) (free + includes FreeAgent)
 
 <div class="cta-box">
-  <a href="#" class="cta-button">👉 Open a free Mettle account</a>
+  <a href="https://www.mettle.co.uk/" class="cta-button" target="_blank" rel="nofollow">👉 Open a free Mettle account</a>
 </div>
 
 If you want the best overall banking experience:
