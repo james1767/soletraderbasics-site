@@ -21,7 +21,9 @@ Some people stop reading here and assume they don't need one. That's a mistake.
 
 With a dedicated business account, every transaction is business-related by default. No scrolling through personal spending trying to remember whether that £47.50 at Screwfix was for a client job or your kitchen shelf.
 
-When you connect a business account to your [accounting software](/best/accounting-software-sole-trader/), it imports every transaction automatically. Most get categorised without you touching anything. At tax return time, your income and expenses are already tallied. Without a separate account, you'd need to manually tag every business transaction from a mixed personal feed — hundreds of them, potentially.
+When you connect a business account to your [accounting software](/best/accounting-software-sole-trader/), it imports every transaction automatically. Most get categorised without you touching anything. At tax return time, your income and expenses are already tallied. If you're unsure what counts as a business expense, see our full guide:  
+[Sole trader expenses list UK](/guides/tax/sole-trader-expenses-list-uk/)
+Without a separate account, you'd need to manually tag every business transaction from a mixed personal feed — hundreds of them, potentially.
 
 ### HMRC investigations are less painful
 
@@ -64,11 +66,11 @@ A proper business account is free, purpose-built, and takes the same amount of t
 
 We've compared every major option in detail. The short version:
 
-- **[Starling](/best/business-bank-accounts-sole-trader/)** — best all-round. Free, best-rated app, now includes invoicing and built-in accounting essentials.
-- **[Mettle](/best/business-bank-accounts-sole-trader/)** — free, and comes with FreeAgent accounting software included at no cost.
-- **[Tide](/best/business-bank-accounts-sole-trader/)** — free plan available, with built-in invoicing and broad accounting integrations.
+- **[Starling](/guides/banking/best-business-bank-account-sole-trader/)** — best all-round. Free, best-rated app, now includes invoicing and built-in accounting essentials.
+- **[Mettle](/guides/banking/best-business-bank-account-sole-trader/)** — free, and comes with FreeAgent accounting software included at no cost.
+- **[Tide](/guides/banking/best-business-bank-account-sole-trader/)** — free plan available, with built-in invoicing and broad accounting integrations.
 
-Full comparison: [Best business bank accounts for sole traders](/best/business-bank-accounts-sole-trader/)
+Full comparison: [Best business bank accounts for sole traders](/guides/banking/best-business-bank-account-sole-trader/)
 
 ## Next step
 

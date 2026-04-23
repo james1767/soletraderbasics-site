@@ -34,6 +34,9 @@ This guide compares FreeAgent vs Xero for sole traders in the UK so you can choo
 
 FreeAgent is designed specifically for freelancers and sole traders. Everything is focused on what you actually need: tracking income, expenses, and tax.
 
+If you’re not sure what counts as a business expense, see our full guide:  
+[Sole trader expenses list UK](/guides/tax/sole-trader-expenses-list-uk/)
+
 ### It files your Self Assessment
 
 👉 You can submit your tax return directly to HMRC from within [FreeAgent](https://www.freeagent.com/)
@@ -118,6 +121,9 @@ If you’re working closely with one, it may be easier to use what they already 
 | Tax return         | Built-in    | Requires external step |
 
 ---
+
+Before choosing software, it helps to understand what you’ll actually be tracking:  
+[Sole trader expenses list UK](/guides/tax/sole-trader-expenses-list-uk/)
 
 ## Which should you choose?
 
