@@ -62,6 +62,9 @@ That means:
 
 If something is used for both business and personal reasons, you cannot claim the full amount unless it is entirely business-related. You can normally claim only the business portion.
 
+If you want a full breakdown of categories and examples, see:  
+[Sole trader expenses list UK](/guides/tax/sole-trader-expenses-list-uk/)
+
 For example:
 
 - If you use your mobile phone for business and personal calls, you can claim the business-use part
