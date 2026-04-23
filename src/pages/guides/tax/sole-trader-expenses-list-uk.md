@@ -1,7 +1,6 @@
-/---
+---
 title: "Sole Trader Expenses List UK: What You Can Claim and What You Can’t"
 layout: ../../../layouts/BaseLayout.astro
-
 ---
 
 # Sole Trader Expenses List UK: What You Can Claim and What You Can’t
@@ -15,6 +14,9 @@ The main HMRC rule is that an expense must be wholly and exclusively for busines
 This guide explains the main sole trader expenses you can claim in the UK, what you cannot claim, and how to keep proper records.
 
 ---
+
+If you’re searching for a “sole trader expenses list UK”, this guide gives a clear breakdown of what you can and can’t claim.
+It covers the most common allowable expenses for sole traders in the UK, based on HMRC guidance.
 
 ## Most common sole trader expenses in the UK
 
@@ -35,17 +37,17 @@ HMRC says you can claim expenses that are used “wholly and exclusively” for 
 
 That means:
 
-• The cost must be for your business  
-• You must have actually paid it  
-• You should keep records to support the claim
+- The cost must be for your business
+- You must have actually paid it
+- You should keep records to support the claim
 
 If something is used for both business and personal reasons, you cannot claim the full amount unless it is entirely business-related. You can normally claim only the business portion.
 
 For example:
 
-• If you use your mobile phone for business and personal calls, you can claim the business-use part  
-• If you work from home, you can claim the business share of certain household costs  
-• If you buy clothes for everyday use, that is usually not allowable, even if you wear them for work
+- If you use your mobile phone for business and personal calls, you can claim the business-use part
+- If you work from home, you can claim the business share of certain household costs
+- If you buy clothes for everyday use, that is usually not allowable, even if you wear them for work
 
 If you are asking, “what expenses can I claim as a sole trader UK?”, the short answer is: business costs that are necessary for running your trade and are not mainly personal.
 
@@ -57,13 +59,13 @@ Below is a practical sole trader expenses list UK beginners can use as a startin
 
 ### Quick summary: most common sole trader expenses
 
-• Equipment and tools  
-• Travel costs  
-• Home office expenses  
-• Phone and internet  
-• Marketing and advertising  
-• Insurance and professional fees  
-• Software and subscriptions
+- Equipment and tools
+- Travel costs
+- Home office expenses
+- Phone and internet
+- Marketing and advertising
+- Insurance and professional fees
+- Software and subscriptions
 
 ---
 
@@ -73,20 +75,20 @@ These are day-to-day running costs for managing your business.
 
 Common examples include:
 
-• Stationery  
-• Printer ink and paper  
-• Postage  
-• Software subscriptions  
-• Business bank charges  
-• Accounting fees  
-• Website hosting  
-• Domain name renewals
+- Stationery
+- Printer ink and paper
+- Postage
+- Software subscriptions
+- Business bank charges
+- Accounting fees
+- Website hosting
+- Domain name renewals
 
 If you pay for tools that help you manage invoicing, bookkeeping, or tax, that is normally allowable.
 
 For most sole traders, using accounting software is the easiest way to track expenses and stay organised.  
 👉 See our guide to the best accounting software for sole traders:  
-/best/accounting-software-sole-trader
+[best accounting software for sole traders](/best/accounting-software-sole-trader/)
 
 ---
 
@@ -96,14 +98,14 @@ You can usually claim the cost of equipment you buy for business use.
 
 Examples include:
 
-• Laptop or desktop computer  
-• Monitor  
-• Keyboard and mouse  
-• Mobile phone used for work  
-• Camera equipment  
-• Specialist tools  
-• Office desk or chair  
-• Small machinery
+- Laptop or desktop computer
+- Monitor
+- Keyboard and mouse
+- Mobile phone used for work
+- Camera equipment
+- Specialist tools
+- Office desk or chair
+- Small machinery
 
 Some purchases may need to be treated under capital allowances rather than as a normal day-to-day expense, especially for larger assets. But in practical terms, many sole traders can still get tax relief on business equipment.
 
@@ -115,22 +117,22 @@ Travel for business is usually claimable. Personal travel is not.
 
 Allowable travel costs can include:
 
-• Fuel for business journeys  
-• Parking fees  
-• Train tickets  
-• Bus fares  
-• Taxi fares for business trips  
-• Hotel stays for overnight business travel  
-• Meals on overnight business trips  
-• Vehicle insurance, repairs, and servicing relating to business use  
-• Mileage, if you use the simplified mileage method
+- Fuel for business journeys
+- Parking fees
+- Train tickets
+- Bus fares
+- Taxi fares for business trips
+- Hotel stays for overnight business travel
+- Meals on overnight business trips
+- Vehicle insurance, repairs, and servicing relating to business use
+- Mileage, if you use the simplified mileage method
 
 Typical business travel examples:
 
-• Visiting a client  
-• Travelling to a temporary work location  
-• Going to a supplier meeting  
-• Attending a business event or conference
+- Visiting a client
+- Travelling to a temporary work location
+- Going to a supplier meeting
+- Attending a business event or conference
 
 Ordinary commuting is not usually allowable.
 
@@ -144,13 +146,13 @@ If you want a full breakdown, read our guide to [working from home expenses for 
 
 This can include a business portion of:
 
-• Electricity  
-• Heating  
-• Internet  
-• Rent  
-• Mortgage interest (not the full mortgage payment)  
-• Council tax  
-• Water (if relevant to the business)
+- Electricity
+- Heating
+- Internet
+- Rent
+- Mortgage interest (not the full mortgage payment)
+- Council tax
+- Water (if relevant to the business)
 
 There are generally two common approaches:
 
@@ -172,11 +174,11 @@ For more detail, see our guide to [sole trader phone and internet expenses](/gui
 
 Examples include:
 
-• Business mobile contract  
-• Landline calls for work  
-• Internet used for business  
-• Video calling software  
-• Cloud storage subscriptions
+- Business mobile contract
+- Landline calls for work
+- Internet used for business
+- Video calling software
+- Cloud storage subscriptions
 
 If a bill covers both personal and business use, you should split it on a fair basis.
 
@@ -188,14 +190,14 @@ Promoting your business is usually an allowable expense.
 
 Examples include:
 
-• Facebook or Google ads  
-• Printed flyers  
-• Business cards  
-• Website design  
-• Branding work  
-• SEO services  
-• Email marketing software  
-• Sponsored listings
+- Facebook or Google ads
+- Printed flyers
+- Business cards
+- Website design
+- Branding work
+- SEO services
+- Email marketing software
+- Sponsored listings
 
 ---
 
@@ -205,14 +207,14 @@ Many sole traders pay for outside help. These costs are often claimable if they 
 
 Examples include:
 
-• Accountant fees  
-• Bookkeeper fees  
-• Solicitor fees for business matters  
-• Professional indemnity insurance  
-• Public liability insurance  
-• Business loan interest  
-• Hire purchase interest  
-• Trade body memberships
+- Accountant fees
+- Bookkeeper fees
+- Solicitor fees for business matters
+- Professional indemnity insurance
+- Public liability insurance
+- Business loan interest
+- Hire purchase interest
+- Trade body memberships
 
 ---
 
@@ -222,10 +224,10 @@ Some training costs may be allowable if they help you maintain or update existin
 
 Examples include:
 
-• Refresher training  
-• Industry journals  
-• Trade magazines  
-• Professional subscriptions
+- Refresher training
+- Industry journals
+- Trade magazines
+- Professional subscriptions
 
 Training for a completely new trade is usually not allowable.
 
@@ -237,11 +239,11 @@ If you pay people to help with your business, those costs may be claimable.
 
 Examples include:
 
-• Wages  
-• Freelancer payments  
-• Subcontractor fees  
-• Employer National Insurance  
-• Pension contributions
+- Wages
+- Freelancer payments
+- Subcontractor fees
+- Employer National Insurance
+- Pension contributions
 
 ---
 
@@ -251,20 +253,20 @@ Imagine you are a freelance graphic designer.
 
 In one month, you pay for:
 
-• £35 for software  
-• £18 for business mobile usage  
-• £60 train fare to visit a client  
-• £25 for printer ink  
-• £40 business share of broadband  
-• £300 for a work monitor
+- £35 for software
+- £18 for business mobile usage
+- £60 train fare to visit a client
+- £25 for printer ink
+- £40 business share of broadband
+- £300 for a work monitor
 
 These are all potentially claimable.
 
 But:
 
-• Personal subscriptions  
-• Everyday clothes  
-• Personal travel
+- Personal subscriptions
+- Everyday clothes
+- Personal travel
 
 are not allowable.
 
@@ -274,14 +276,14 @@ are not allowable.
 
 You generally cannot claim for:
 
-• Personal expenses  
-• Everyday clothing  
-• Non-business travel  
-• Client entertaining  
-• Fines or penalties  
-• The personal part of mixed-use bills  
-• Mortgage capital repayments  
-• Drawings (money you take for yourself)
+- Personal expenses
+- Everyday clothing
+- Non-business travel
+- Client entertaining
+- Fines or penalties
+- The personal part of mixed-use bills
+- Mortgage capital repayments
+- Drawings (money you take for yourself)
 
 ---
 
@@ -291,10 +293,10 @@ If something is used for both business and personal use, claim only the business
 
 Examples:
 
-• Phone usage split  
-• Internet usage split  
-• Household bills  
-• Vehicle mileage
+- Phone usage split
+- Internet usage split
+- Household bills
+- Vehicle mileage
 
 Use reasonable, consistent calculations.
 
@@ -304,31 +306,33 @@ Use reasonable, consistent calculations.
 
 You should keep:
 
-• Receipts  
-• Invoices  
-• Bank statements  
-• Mileage logs  
-• Bills  
-• Notes showing how you calculated business use
+- Receipts
+- Invoices
+- Bank statements
+- Mileage logs
+- Bills
+- Notes showing how you calculated business use
 
 If you’re unsure how to organise this properly, read:  
-/guides/accounting-software/sole-trader-record-keeping
+[sole trader record keeping guide](/guides/accounting-software/sole-trader-record-keeping/)
 
 ---
 
 ## Do most sole traders use accounting software?
 
+As businesses grow, many sole traders move to tools like Xero for better expense tracking, reporting, and compliance.
+
 Yes — many do.
 
 Accounting software helps you:
 
-• Track expenses  
-• Store receipts  
-• Separate business and personal costs  
-• Prepare for Self Assessment
+- Track expenses
+- Store receipts
+- Separate business and personal costs
+- Prepare for Self Assessment
 
 👉 If you want a simple way to track expenses and stay compliant, compare options here:  
-/best/accounting-software-sole-trader
+[best accounting software for sole traders](/best/accounting-software-sole-trader/)
 
 ---
 
