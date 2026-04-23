@@ -17,6 +17,9 @@ This guide compares the best accounting software for sole traders in the UK, inc
 
 If you're looking for simple bookkeeping software for self-employed UK workers, this page will help you choose the right option.
 
+If you’re unsure what expenses you can claim, see our full guide:  
+[Sole trader expenses list UK](/guides/tax/sole-trader-expenses-list-uk/)
+
 **Most sole traders should use [FreeAgent](https://www.freeagent.com/).** It’s simple, built for UK freelancers, shows your tax position in real time, and can file your Self Assessment directly to HMRC.
 
 If you want a free option, you can get FreeAgent included with a [Mettle](https://www.mettle.co.uk/) or NatWest business account. See our [best business bank accounts for sole traders](/guides/banking/best-business-bank-account-sole-trader/) if you want to compare your options first.
@@ -111,6 +114,9 @@ It will:
 - help you file your tax return
 
 👉 You don’t need to be “good with numbers” — the software does most of the work.
+
+Before choosing software, it helps to understand what you’ll actually be tracking:  
+[Sole trader expenses list UK](/guides/tax/sole-trader-expenses-list-uk/)
 
 ## Do you need an accountant?
 
