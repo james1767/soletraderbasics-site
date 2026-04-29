@@ -15,8 +15,6 @@ layout: ../../../layouts/BaseLayout.astro
 
 ---
 
-# Sole Trader Expenses List UK (2026): What You Can Claim
-
 ## What expenses can a sole trader claim in the UK?
 
 💡 Most sole traders overclaim or miss key expenses — this guide shows exactly what counts and what doesn’t.
