@@ -3,22 +3,32 @@ title: "Sole Trader Expenses List UK (2026): What You Can Claim"
 layout: ../../../layouts/BaseLayout.astro
 ---
 
-# Sole Trader Expenses List UK: What You Can Claim and What You Can’t
+# Sole Trader Expenses List UK (2026): What You Can Claim
 
-## Quick answer
+## What expenses can a sole trader claim in the UK?
 
-A sole trader in the UK can claim business expenses that are **wholly and exclusively for business use**, including software, travel, phone bills, working from home costs, equipment, and professional fees.
+A sole trader in the UK can claim expenses that are **wholly and exclusively for business use**, including:
 
-If you're looking for a **clear sole trader expenses list UK**, this guide breaks down exactly what you can claim, what you can't, and how to stay compliant with HMRC.
+- Office and admin costs (software, stationery, bank fees)
+- Equipment and tools (laptop, phone, specialist tools)
+- Travel expenses (fuel, train tickets, parking)
+- Working from home costs (electricity, rent portion, internet)
+- Phone and internet (business usage only)
+- Marketing and advertising (ads, website, SEO)
+- Professional fees (accountant, insurance, memberships)
+
+If an expense is partly personal, only the business portion can be claimed.
 
 👉 Most sole traders track these using accounting software — see:  
 [Best accounting software for sole traders](/best/accounting-software-sole-trader/)
 
 ---
 
-This guide covers the most common allowable expenses for UK sole traders, based on HMRC guidance.
+## Quick answer
 
-If you’re searching for a “sole trader expenses list UK”, this page gives a clear breakdown of what you can and can’t claim.
+A sole trader in the UK can claim business expenses that are **wholly and exclusively for business use**, including software, travel, phone bills, working from home costs, equipment, and professional fees.
+
+If you're looking for a **clear sole trader expenses list UK**, this guide breaks down exactly what you can claim, what you can't, and how to stay compliant with HMRC.
 
 ## Most common sole trader expenses in the UK
 
