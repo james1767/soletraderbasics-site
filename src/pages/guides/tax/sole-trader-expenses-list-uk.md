@@ -1,5 +1,6 @@
 ---
 title: "Sole Trader Expenses List UK (2026): What You Can Claim + Full HMRC Guide"
+description: "A complete sole trader expenses list UK (2026). See what you can and can’t claim, HMRC rules, examples, and common mistakes to avoid."
 layout: ../../../layouts/BaseLayout.astro
 ---
 
