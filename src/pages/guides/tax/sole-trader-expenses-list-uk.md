@@ -8,26 +8,7 @@ layout: ../../../layouts/BaseLayout.astro
 
 ## What expenses can a sole trader claim in the UK?
 
----
-
-title: "Sole Trader Expenses List UK (2026): What You Can Claim + Full HMRC Guide"
-layout: ../../../layouts/BaseLayout.astro
-
----
-
-## What expenses can a sole trader claim in the UK?
-
-💡 Most sole traders overclaim or miss key expenses — this guide shows exactly what counts and what doesn’t.
-
-A sole trader in the UK can claim expenses that are **wholly and exclusively for business use**, including:
-
-- Office and admin costs (software, stationery, bank fees)
-- Equipment and tools (laptop, phone, specialist tools)
-- Travel expenses (fuel, train tickets, parking)
-- Working from home costs (electricity, rent portion, internet)
-- Phone and internet (business usage only)
-- Marketing and advertising (ads, website, SEO)
-- Professional fees (accountant, insurance, memberships)
+💡 Many sole traders miss allowable expenses or claim things incorrectly — this guide shows exactly what HMRC allows, with examples.
 
 A sole trader in the UK can claim expenses that are **wholly and exclusively for business use**, including:
 
