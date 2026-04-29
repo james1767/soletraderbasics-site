@@ -31,6 +31,7 @@ After registration, these are the most important decisions:
 
 - [Best Business Bank Accounts for Sole Traders](/guides/banking/best-business-bank-account-sole-trader)
 - [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader)
+- [Sole trader expenses list UK](/guides/tax/sole-trader-expenses-list-uk/)
 
 </div>
 
