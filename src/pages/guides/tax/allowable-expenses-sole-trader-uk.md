@@ -42,11 +42,6 @@ Typical allowable expenses include:
 - Marketing and advertising
 - Professional fees
 
-👉 For a full list with examples, see:  
-[Sole trader expenses list UK](/guides/tax/sole-trader-expenses-list-uk/)
-
----
-
 ## Examples of allowable vs non-allowable
 
 ### Allowable
@@ -102,6 +97,3 @@ This is why tracking expenses properly is important.
 ## Final thoughts
 
 Understanding allowable expenses is the foundation of managing your tax as a sole trader.
-
-If you want a complete breakdown with categories and examples, read:  
-[Sole trader expenses list UK](/guides/tax/sole-trader-expenses-list-uk/)
