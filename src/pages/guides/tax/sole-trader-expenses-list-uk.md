@@ -53,8 +53,6 @@ This covers the most common allowable expenses for UK sole traders.
 
 HMRC says you can claim expenses that are used “wholly and exclusively” for your business. This is the main rule behind allowable expenses.
 
-For a related breakdown, see our guide to [allowable expenses for sole traders UK](/guides/tax/allowable-expenses-sole-trader-uk/).
-
 That means:
 
 - The cost must be for your business
@@ -300,49 +298,6 @@ Use reasonable, consistent calculations.
 
 ---
 
-## How to keep records of your sole trader expenses
-
-You should keep:
-
-- Receipts
-- Invoices
-- Bank statements
-- Mileage logs
-- Bills
-- Notes showing how you calculated business use
-
-If you’re unsure how to organise this properly, read:  
-[sole trader record keeping for expenses](/guides/accounting-software/sole-trader-record-keeping/)
-
----
-
-## Do most sole traders use accounting software?
-
-Yes — many do.
-
-Accounting software helps you:
-
-- Track expenses
-- Store receipts
-- Separate business and personal costs
-- Prepare for Self Assessment
-
-👉 If you want a simple way to track expenses and stay compliant, compare options here:  
-[accounting software for tracking sole trader expenses](/best/accounting-software-sole-trader/)
-
----
-
-## Common mistakes sole traders make with expenses
-
-- Claiming personal expenses as business costs
-- Forgetting to split mixed-use expenses
-- Not keeping proper records or receipts
-- Missing allowable expenses entirely
-
-Avoiding these mistakes can reduce errors and make your tax return easier to prepare.
-
----
-
 ## FAQs
 
 ### Can a sole trader claim phone bills?
@@ -365,11 +320,44 @@ Usually no, unless it is protective clothing or a uniform required for work.
 
 HMRC defines allowable expenses as costs that are “wholly and exclusively” for business purposes.
 
-For official guidance, see HMRC’s page on allowable expenses:  
+For official guidance, see HMRC’s page on allowable expenses:
 https://www.gov.uk/expenses-if-youre-self-employed
 
-## Final thoughts
+---
 
-If you want a reliable sole trader expenses list UK, start with one rule: only claim costs that are wholly and exclusively for your business.
+## Tracking and recording expenses
 
-The most common claimable expenses include equipment, travel, home office costs, phone and internet, marketing, insurance, and professional fees.
+You should keep:
+
+- Receipts
+- Invoices
+- Bank statements
+- Mileage logs
+- Bills
+- Notes showing how you calculated business use
+
+Accounting software helps you:
+
+- Track expenses
+- Store receipts
+- Separate business and personal costs
+- Prepare for Self Assessment
+
+If you want a simple way to track expenses and stay compliant, compare [accounting software for tracking sole trader expenses](/best/accounting-software-sole-trader/).
+
+---
+
+## Common mistakes sole traders make with expenses
+
+- Claiming personal expenses as business costs
+- Forgetting to split mixed-use expenses
+- Not keeping proper records or receipts
+- Missing allowable expenses entirely
+
+Avoiding these mistakes can reduce errors and make your tax return easier to prepare.
+
+---
+
+## More on allowable expenses
+
+For a fuller breakdown of the HMRC rule and examples, read our guide to [allowable expenses for sole traders UK](/guides/tax/allowable-expenses-sole-trader-uk/).
