@@ -29,6 +29,7 @@ Once you know you need to register, this guide walks you through the process:
 
 After registration, these are the most important decisions:
 
+- [Do I need a business bank account as a sole trader?](/guides/banking/do-i-need-business-bank-account-sole-trader/)
 - [Best Business Bank Accounts for Sole Traders](/guides/banking/best-business-bank-account-sole-trader)
 - [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader)
 - [sole trader expenses list UK](/guides/tax/sole-trader-expenses-list-uk/)

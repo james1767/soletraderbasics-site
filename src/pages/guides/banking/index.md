@@ -9,11 +9,14 @@ Setting up the right bank account is one of the first and most important steps a
 
 ## Start here
 
-- [Do You Need a Business Bank Account as a Sole Trader?](/guides/banking/do-i-need-business-bank-account-sole-trader)
+- [do you need a business bank account as a sole trader](/guides/banking/do-i-need-business-bank-account-sole-trader/)
+- [can a sole trader use a personal bank account](/guides/banking/can-sole-trader-use-personal-bank-account/)
 - [How to Open a Business Bank Account](/guides/banking/how-to-open-business-bank-account-sole-trader)
 
 ## Compare your options
 
+- [business vs personal account for sole traders](/guides/banking/business-vs-personal-account-sole-trader/)
+- [best free business bank accounts for sole traders](/guides/banking/best-free-business-bank-account-sole-trader/)
 - [Best Business Bank Accounts for Sole Traders](/guides/banking/best-business-bank-account-sole-trader)
 - [Free Business Bank Accounts for Sole Traders](/guides/banking/free-business-bank-account-sole-trader)
 
