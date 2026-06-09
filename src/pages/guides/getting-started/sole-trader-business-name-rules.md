@@ -78,8 +78,8 @@ The only complication is if you've already built brand recognition. From a pract
 Once you've chosen your name:
 
 1. **[Register as a sole trader](/guides/getting-started/register-sole-trader/)** if you haven't already — you'll enter your trading name during registration
-2. **Set up your [invoice template](/guides/invoicing/)** with both your trading name and legal name
-3. **Open a [business bank account](/best/business-bank-accounts-sole-trader/)** under your trading name — most digital banks let you specify a trading name during setup
+2. **Set up your invoice template** with both your trading name and legal name
+3. **Open a [business bank account](/guides/banking/best-business-bank-account-sole-trader/)** under your trading name — most digital banks let you specify a trading name during setup
 4. **[Choose accounting software](/best/accounting-software-sole-trader/)** — connect it to your bank so every transaction is tracked from day one
 
 ---

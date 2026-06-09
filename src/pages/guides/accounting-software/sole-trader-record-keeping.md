@@ -7,7 +7,7 @@ layout: ../../../layouts/BaseLayout.astro
 
 ## Quick answer
 
-**Keep a record of every payment in and every payment out, with receipts.** That's it. Connect a [business bank account](/best/business-bank-accounts-sole-trader/) to [accounting software](/best/accounting-software-sole-trader/), spend 10–15 minutes each Friday categorising transactions, and your bookkeeping is done. HMRC requires you to keep these records for 5 years. It's simpler than most people expect.
+**Keep a record of payments in, payments out, and the evidence behind them.** A [business bank account](/guides/banking/best-business-bank-account-sole-trader/) connected to [accounting software](/best/accounting-software-sole-trader/) can make this much easier. Spend 10–15 minutes each Friday categorising transactions and your records should stay much cleaner. HMRC generally requires self-employed records to be kept for at least 5 years after the relevant filing deadline.
 
 ---
 
@@ -25,8 +25,8 @@ In practice, this means keeping:
 
 - **Sales invoices** you've sent to clients (or till receipts if you sell directly)
 - **Purchase receipts** for everything you buy for the business
-- **Bank statements** from your [business bank account](/best/business-bank-accounts-sole-trader/)
-- **Mileage records** if you [claim car expenses](/guides/sole-trader-expenses/)
+- **Bank statements** from your [business bank account](/guides/banking/best-business-bank-account-sole-trader/)
+- **Mileage records** if you [claim car expenses](/guides/tax/sole-trader-expenses-list-uk/)
 - **Records of any personal money you put into or take out of the business**
 
 You don't need to keep records in any particular format. A spreadsheet works. Paper receipts in a shoebox technically work (though please don't). [Accounting software](/best/accounting-software-sole-trader/) connected to your bank is by far the most practical option.
@@ -65,7 +65,7 @@ If you want to keep things as simple as possible while staying HMRC-compliant:
 
 ### Option A: Accounting software (recommended)
 
-1. Open a [business bank account](/best/business-bank-accounts-sole-trader/)
+1. Open a [business bank account](/guides/banking/best-business-bank-account-sole-trader/)
 2. Connect it to [accounting software](/best/accounting-software-sole-trader/) (FreeAgent, QuickBooks, Xero — or FreeAgent free via Mettle)
 3. Every week, spend 10–15 minutes:
    - Check that imported transactions are categorised correctly
@@ -73,7 +73,7 @@ If you want to keep things as simple as possible while staying HMRC-compliant:
    - Note any cash transactions that don't appear in bank feeds
 4. At year end, your records are already complete
 
-This is the approach we recommend for every sole trader. It takes minimal effort throughout the year and your [Self Assessment](/guides/self-assessment/) is essentially pre-filled.
+This is a practical approach for many sole traders. It takes less effort throughout the year and can make your [Self Assessment](/guides/tax/how-to-file-self-assessment/) easier to prepare.
 
 ### Option B: Spreadsheet
 
@@ -84,7 +84,7 @@ If you genuinely prefer manual tracking or your business is very small:
 3. Store receipt photos in a folder structure: `/receipts/2026-27/april/` etc.
 4. Reconcile against your bank statement monthly
 
-This is compliant, but significantly more work than software — especially at tax return time when you need to total everything up. Our [bookkeeping spreadsheet template](/resources/sole-trader-bookkeeping-template/) is set up with the right categories if you want to go this route.
+This can work, but it is usually more manual than software, especially at tax return time when you need to total everything up. Our [bookkeeping spreadsheet template](/guides/accounting-software/bookkeeping-spreadsheet-template/) is set up with common categories if you want to go this route.
 
 ## Expense categories HMRC expects
 
@@ -102,7 +102,7 @@ When you fill in your Self Assessment tax return, you'll report expenses under s
 - **Accountancy, legal and other professional fees** — accountant, solicitor
 - **Depreciation and loss on sale of assets** — capital allowances on equipment
 - **Other business expenses** — anything that doesn't fit above
-- **Use of home as office** — if you [work from home](/guides/sole-trader-expenses/)
+- **Use of home as office** — if you [work from home](/guides/tax/sole-trader-working-from-home-expenses-uk/)
 
 Most [accounting software](/best/accounting-software-sole-trader/) maps to these categories automatically. If you're using a spreadsheet, use these headings.
 
@@ -118,9 +118,9 @@ The penalty is rarely enforced for genuine minor lapses, but the real cost is pr
 
 ## Next step
 
-1. **[Choose accounting software](/best/accounting-software-sole-trader/)** — FreeAgent (free via Mettle), QuickBooks, or Xero. Connect it to your [bank account](/best/business-bank-accounts-sole-trader/) today.
+1. **[Choose accounting software](/best/accounting-software-sole-trader/)** — compare FreeAgent, QuickBooks, Xero, and other options. Connect it to your [bank account](/guides/banking/best-business-bank-account-sole-trader/) if bank feeds are useful for you.
 2. **Set a weekly 15-minute habit** — Friday afternoon, categorise the week's transactions and snap any paper receipts. Build this habit in week one and your records stay clean all year.
-3. **Read our [expenses guide](/guides/sole-trader-expenses/)** — know what you can and can't claim so you categorise correctly from the start.
+3. **Read our [expenses guide](/guides/tax/sole-trader-expenses-list-uk/)** — understand common expense categories so your records are easier to review.
 
 ---
 

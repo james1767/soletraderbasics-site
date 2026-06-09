@@ -77,7 +77,7 @@ You can also open a business account at a high-street bank (Lloyds, Barclays, HS
 
 For most sole traders, digital banks are faster, free permanently, and have better apps. High-street banks make sense mainly if you need branch access for regular large cash deposits.
 
-Our full comparison: [Best business bank accounts for sole traders](/best/business-bank-accounts-sole-trader/)
+Our full comparison: [Best business bank accounts for sole traders](/guides/banking/best-business-bank-account-sole-trader/)
 
 ## What to do immediately after opening
 
@@ -87,13 +87,13 @@ Don't just open the account and forget about it. In your first sitting:
 
 2. **Create a tax savings pot** — set aside 25–30% of every incoming payment. With Starling, use Savings Spaces. With Monzo Pro, use Tax Pots. With Tide, you'll need to manually transfer to a separate savings account.
 
-3. **Share your new account details with clients** — update any existing clients with your new sort code and account number. Add the details to your [invoice template](/guides/invoicing/).
+3. **Share your new account details with clients** — update any existing clients with your new sort code and account number. Add the details to your invoices.
 
-4. **Move your business spending** — start paying all business expenses from this account immediately. The sooner you separate personal from business, the cleaner your records will be at [tax return time](/guides/self-assessment/).
+4. **Move your business spending** — start paying business expenses from this account where practical. The sooner you separate personal from business, the cleaner your records will be at [tax return time](/guides/tax/how-to-file-self-assessment/).
 
 ## Next step
 
-1. **[Choose which bank to open](/best/business-bank-accounts-sole-trader/)** — we recommend Starling for most people
+1. **[Choose which bank to open](/guides/banking/best-business-bank-account-sole-trader/)** — compare the main options before applying
 2. **Download the app and apply** — you'll have your account number within hours
 3. **[Connect accounting software](/best/accounting-software-sole-trader/)** in the same sitting
 

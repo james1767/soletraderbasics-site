@@ -31,7 +31,7 @@ These are typical UK rates for sole traders. London and the South East tend to b
 
 **Keeping your own books using software reduces accountant fees by 30–50%.** This is why we recommend [setting up accounting software](/best/accounting-software-sole-trader/) even if you plan to hire an accountant — it makes their job faster and your bill smaller.
 
-**Complexity of your tax affairs.** A sole trader with one income stream and standard expenses is simple. Add rental income, foreign income, capital gains, [VAT registration](/guides/vat-basics/), or employee payroll, and each layer adds cost.
+**Complexity of your tax affairs.** A sole trader with one income stream and standard expenses is simpler. Add rental income, foreign income, capital gains, VAT registration, or employee payroll, and each layer can add cost.
 
 **Frequency of contact.** A "file my return once a year" relationship costs far less than "I want to be able to call you with questions throughout the year." Some accountants include limited email/phone support in their fixed fee; others charge per interaction.
 
@@ -41,23 +41,23 @@ These are typical UK rates for sole traders. London and the South East tend to b
 
 For a sole trader, an accountant typically:
 
-1. **Reviews your income and expense records** — checks everything is categorised correctly and that you're claiming all the [expenses you're entitled to](/guides/sole-trader-expenses/)
+1. **Reviews your income and expense records** — checks everything is categorised clearly and reviews the [expenses you have recorded](/guides/tax/sole-trader-expenses-list-uk/)
 2. **Prepares your Self Assessment tax return** — calculates Income Tax, National Insurance, and any payments on account
 3. **Files the return to HMRC** — meets the deadline so you don't get fined
 4. **Identifies tax-saving opportunities** — pension contributions, capital allowances, timing of expenses
-5. **Advises on business decisions** — whether to [go limited](/guides/sole-trader-vs-limited-company/), how to handle [VAT registration](/guides/vat-basics/), how to structure things efficiently
+5. **Advises on business decisions** — whether to go limited, how to handle VAT registration, or how to structure things efficiently
 
-Some also handle your [Making Tax Digital](/guides/making-tax-digital/) quarterly submissions and manage any HMRC correspondence on your behalf.
+Some also handle Making Tax Digital quarterly submissions and manage HMRC correspondence on your behalf.
 
 ## Is it worth it?
 
 Here's a framework:
 
-**Earning under £20,000:** Probably not, unless your situation is complex. Use [accounting software](/best/accounting-software-sole-trader/) and file yourself. FreeAgent (free via [Mettle](/best/business-bank-accounts-sole-trader/)) or GoSimpleTax (£41/year) handles everything.
+**Earning under £20,000:** Probably not, unless your situation is complex. You may be able to use [accounting software](/best/accounting-software-sole-trader/) and file yourself. Some sole traders use FreeAgent via Mettle or a filing tool such as GoSimpleTax.
 
 **Earning £20,000–£40,000:** Optional. Software handles the mechanics. Consider a one-off annual review (£200–£400) where an accountant checks your return before you file — catches mistakes and finds savings you might miss.
 
-**Earning £40,000+:** Likely worth it. The tax planning opportunities at this level (pension timing, potential [limited company switch](/guides/sole-trader-vs-limited-company/), NI optimisation) usually save more than the accountant costs. A £500 accountant fee that saves you £2,000 in tax is a good trade.
+**Earning £40,000+:** It may be worth speaking to an accountant. At this level, questions around pension timing, structure, and National Insurance can become more important.
 
 **Any income, complex situation:** If you have multiple income sources, overseas clients, property income, or investments alongside your business — get an accountant regardless of income level. The interactions between tax types are where costly mistakes happen.
 
@@ -72,13 +72,13 @@ Here's a framework:
 | **MTD quarterly submissions** | Software handles it | Usually extra cost | Usually included |
 | **Time investment** | ~2–3 hours/month | ~1 hour/month (prepping records) | ~15 minutes/month |
 
-**The bottom line:** For a sole trader earning under £30,000 with straightforward expenses, [FreeAgent via Mettle](/best/business-bank-accounts-sole-trader/) (£0) or [QuickBooks Sole Trader Plus](/best/accounting-software-sole-trader/) (£108/year) does everything a £300–£500 accountant would do at the basic level. The software won't proactively find tax savings — but at lower income levels, there's less to optimise anyway.
+**The bottom line:** For a sole trader earning under £30,000 with straightforward expenses, software such as FreeAgent or [QuickBooks](/best/accounting-software-sole-trader/) may cover the basic admin. Software will not replace professional advice, but it can reduce the amount of manual bookkeeping you need to do.
 
 ## How to reduce costs
 
 1. **Use [accounting software](/best/accounting-software-sole-trader/)** and keep your records up to date — this alone cuts fees significantly
 2. **Keep receipts digitally** — scan or photograph them throughout the year, don't leave it until January
-3. **Use a [business bank account](/best/business-bank-accounts-sole-trader/)** — clean separation means less sorting for the accountant
+3. **Use a [business bank account](/guides/banking/best-business-bank-account-sole-trader/)** — clean separation means less sorting for the accountant
 4. **Prepare a summary** before your annual meeting — total income, total expenses by category, any questions or unusual items
 5. **Get a fixed fee quote upfront** — avoid hourly billing where possible
 

@@ -60,7 +60,7 @@ The [registration process](/guides/getting-started/register-sole-trader/) is qui
 
 Same rules apply. Your employment doesn't change your obligation to register self-employment income. You'll pay tax on your self-employed profits on top of the tax your employer already deducts from your salary via PAYE.
 
-The good news: your personal allowance is usually already used up by your salary, so you won't "lose" it — you'll just pay 20% (basic rate) on your self-employed profits above your expenses. Our [side hustle tax guide](/guides/side-hustle-tax/) walks through the exact maths.
+The good news: your personal allowance is usually already used up by your salary, so you won't "lose" it — you'll just pay tax on your self-employed profits above your expenses. Our [sole trader tax rates guide](/guides/tax/sole-trader-tax-rates-uk/) walks through the main rates.
 
 You can absolutely be [employed and self-employed at the same time](/guides/getting-started/self-employed-and-employed/) — HMRC handles it through Self Assessment.
 
@@ -93,10 +93,10 @@ In practice, if you register late but before HMRC contacts you, and you owe rela
 If you need to register, here's what to do now:
 
 1. **[Register as a sole trader with HMRC](/guides/getting-started/register-sole-trader/)** — our step-by-step guide walks through the whole process in 10 minutes
-2. **[Open a business bank account](/best/business-bank-accounts-sole-trader/)** — free, takes minutes, and separates your business money from personal spending
+2. **[Open a business bank account](/guides/banking/best-business-bank-account-sole-trader/)** — free options exist, and a separate account keeps business money away from personal spending
 3. **[Set up basic accounting](/best/accounting-software-sole-trader/)** — connect software to your bank so every transaction is tracked from day one
 
-4. **[Learn what expenses you can claim](/guides/sole-trader-expenses/)** — reducing your taxable profit is the simplest way to lower your bill
+4. **[Learn what expenses you can claim](/guides/tax/sole-trader-expenses-list-uk/)** — understanding expenses can make your tax return easier to prepare
 
 If you're under £1,000 and don't need to register, keep a rough record of your income anyway. Side hustles have a habit of growing faster than expected.
 

@@ -36,7 +36,7 @@ If you sell a few items online once or twice a year, a personal account may be f
 
 If you are a designer, tutor, delivery driver, tradesperson, consultant, or online seller with regular payments, a business account is usually cleaner. You can receive client payments, pay business costs, and review your finances without personal spending getting in the way.
 
-If you use accounting software, a business account may also make bank feeds and transaction matching easier. That can save time every month.
+If you use accounting software, a business account may also make bank feeds and transaction matching easier. That can save time every month. For the practical record setup, see [how to track income and expenses as a sole trader](/guides/accounting-software/track-income-expenses-sole-trader/).
 
 ## Final recommendation
 

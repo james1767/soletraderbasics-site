@@ -105,9 +105,9 @@ Full rules on what's allowed: [sole trader business name rules](/guides/getting-
 Got a name you like? Here's what's next:
 
 1. **[Register as a sole trader](/guides/getting-started/register-sole-trader/)** — you'll enter your trading name during HMRC registration
-2. **[Open a business bank account](/best/business-bank-accounts-sole-trader/)** using your new trading name — most digital banks let you set this during signup
+2. **[Open a business bank account](/guides/banking/best-business-bank-account-sole-trader/)** using your new trading name — most digital banks let you set this during signup
 3. **[Choose accounting software](/best/accounting-software-sole-trader/)** — connect it to your bank so bookkeeping runs itself
-4. **Set up your [invoice template](/guides/invoicing/)** — remember, your legal name must appear on all official documents even if you trade under a different name
+4. **Set up your invoice template** — remember, your legal name must appear on all official documents even if you trade under a different name
 
 ---
 

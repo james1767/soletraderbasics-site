@@ -63,18 +63,18 @@ QuickBooks is the "just works" option for simple businesses. Xero rewards you wi
 
 ## Our recommendation
 
-**For straightforward sole traders: QuickBooks Sole Trader Plus.** It's £108/year, files your tax return, tracks mileage, and does everything a simple sole trader needs without overwhelming you. If your business is "I do work, I send invoices, I have [expenses to claim](/guides/sole-trader-expenses/)" — QuickBooks is the practical choice.
+**For straightforward sole traders: QuickBooks Sole Trader Plus.** It's £108/year, files your tax return, tracks mileage, and does everything a simple sole trader needs without overwhelming you. If your business is "I do work, I send invoices, I have [expenses to claim](/guides/tax/sole-trader-expenses-list-uk/)" — QuickBooks is the practical choice.
 
-**For growing or complex businesses: Xero.** If you need deep integrations, plan to hire staff, or expect to [switch to a limited company](/guides/sole-trader-vs-limited-company/) within a year — start with Xero and save yourself a future migration.
+**For growing or complex businesses: Xero.** If you need deep integrations, plan to hire staff, or expect to switch to a limited company within a year — start with Xero and save yourself a future migration.
 
-**But consider FreeAgent first.** If you bank with [Mettle or NatWest](/best/business-bank-accounts-sole-trader/), FreeAgent is free and combines the best of both: it's simple like QuickBooks, files Self Assessment like QuickBooks, but has stronger UK-specific features than either. See our [Xero vs FreeAgent comparison](/guides/accounting-software/xero-vs-freeagent-sole-trader/) and our [full software roundup](/best/accounting-software-sole-trader/).
+**But consider FreeAgent first.** If you bank with [Mettle or NatWest](/guides/banking/best-business-bank-account-sole-trader/), FreeAgent is free and combines the best of both: it's simple like QuickBooks, files Self Assessment like QuickBooks, but has stronger UK-specific features than either. See our [Xero vs FreeAgent comparison](/best/xero-vs-freeagent-sole-trader/) and our [full software roundup](/best/accounting-software-sole-trader/).
 
 ## Next step
 
 1. **Simple business, budget-conscious?** → [Start a QuickBooks Sole Trader Plus trial](https://quickbooks.intuit.com/uk/self-employed/) and look for an introductory discount
 2. **Planning to grow?** → [Start a Xero trial](https://www.xero.com/uk/) and explore the Simple or Ignite plan
-3. **Want it free?** → Open a [Mettle account](/best/business-bank-accounts-sole-trader/) and get FreeAgent at no cost
-4. **[Connect your bank](/best/business-bank-accounts-sole-trader/)** whichever software you choose — bank feeds are the most valuable feature
+3. **Want it free?** → Open a [Mettle account](/guides/banking/best-business-bank-account-sole-trader/) and get FreeAgent at no cost
+4. **[Connect your bank](/guides/banking/best-business-bank-account-sole-trader/)** whichever software you choose — bank feeds are the most valuable feature
 
 ---
 

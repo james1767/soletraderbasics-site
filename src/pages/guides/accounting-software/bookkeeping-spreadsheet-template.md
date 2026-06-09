@@ -7,7 +7,7 @@ layout: ../../../layouts/BaseLayout.astro
 
 ## Quick answer
 
-**A sole trader bookkeeping spreadsheet needs four things: an income log, an expense log (matching HMRC categories), a mileage log, and a summary tab.** Spend 15 minutes a week logging transactions and you're HMRC-compliant. This free template is laid out to map directly to your Self Assessment return. When your business grows past 20–30 transactions a month, [switch to accounting software](/best/accounting-software-sole-trader/) — it's faster and handles [Making Tax Digital](/guides/making-tax-digital/) for you.
+**A sole trader bookkeeping spreadsheet needs four things: an income log, an expense log, a mileage log, and a summary tab.** Spend 15 minutes a week logging transactions and your records are much easier to keep organised. This free template is laid out to help with your Self Assessment return. When your business grows past 20–30 transactions a month, [switch to accounting software](/best/accounting-software-sole-trader/) — it is usually faster and can support digital tax reporting.
 
 ---
 
@@ -66,7 +66,7 @@ If you use your personal car for business and claim the HMRC mileage rate (45p/m
 | 14/04/2026 | Home | Client site, Leeds | Client meeting | 34 | 0.45 | 15.30 |
 | 21/04/2026 | Home | Supplier, Bradford | Collect materials | 18 | 0.45 | 8.10 |
 
-You must log each trip individually. "Roughly 200 miles this month" won't hold up with HMRC. Record the date, destination, purpose, and mileage for every business journey. More detail in our [expenses guide](/guides/sole-trader-expenses/).
+You should keep a clear record for each business trip rather than relying on a rough monthly guess. Record the date, destination, purpose, and mileage for business journeys. More detail in our [expenses guide](/guides/tax/sole-trader-expenses-list-uk/).
 
 ### 4. Summary (auto-calculated)
 A yearly overview that pulls totals from the other tabs:
@@ -90,7 +90,7 @@ This summary maps directly to the self-employment pages of your Self Assessment 
 5. Note whether you have receipts for each expense
 
 **Monthly check (10 minutes):**
-1. Compare your expense log against your [business bank account](/best/business-bank-accounts-sole-trader/) statement
+1. Compare your expense log against your [business bank account](/guides/banking/best-business-bank-account-sole-trader/) statement
 2. Flag any transactions you missed
 3. Check the Summary tab for a running profit and tax estimate
 
@@ -106,11 +106,11 @@ A spreadsheet works, but it has limits. Consider switching to [proper accounting
 
 - **Your transaction volume grows.** If you're logging more than 20–30 transactions per month, manual entry becomes tedious and error-prone.
 - **You want bank feeds.** Software connects to your bank and imports transactions automatically. This eliminates the biggest time sink in manual bookkeeping.
-- **[Making Tax Digital](/guides/making-tax-digital/) applies to you.** If your income exceeds the MTD threshold (£50,000 from April 2026, £30,000 from April 2027), you must use MTD-compatible software for quarterly submissions. Spreadsheets aren't accepted.
+- **Digital reporting applies to you.** If Making Tax Digital applies to your business, you may need MTD-compatible software rather than a basic spreadsheet.
 - **You want automatic tax filing.** FreeAgent and QuickBooks file your Self Assessment directly to HMRC. A spreadsheet means you still need to manually transfer numbers to HMRC's site (or use a filing tool like GoSimpleTax).
 - **You're making mistakes.** If you've miscategorised expenses, missed deductions, or found errors at year-end, software catches these in real time.
 
-For most sole traders earning over a few thousand pounds, the time saved by software pays for itself within the first month. FreeAgent is free if you bank with [Mettle or NatWest](/best/business-bank-accounts-sole-trader/). GoSimpleTax is £41/year if you only need filing help. The investment is minimal compared to the hours you'll save.
+For many sole traders earning over a few thousand pounds, the time saved by software can be worth the cost. FreeAgent has been included with some bank accounts, including Mettle or NatWest, but check current terms before relying on it. GoSimpleTax may suit people who only need filing help. The right choice depends on how much admin the software saves you.
 
 ## Downloading the template
 

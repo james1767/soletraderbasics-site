@@ -26,5 +26,7 @@ Setting up the right bank account is one of the first and most important steps a
 
 ## Related guides
 
-- [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader)
+- [Sole Trader Bookkeeping UK](/guides/accounting-software/sole-trader-bookkeeping/)
+- [Track Income and Expenses as a Sole Trader](/guides/accounting-software/track-income-expenses-sole-trader/)
+- [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader/)
 - [Do I Need an Accountant as a Sole Trader?](/guides/accounting-software/do-i-need-an-accountant-sole-trader)

@@ -343,7 +343,9 @@ Accounting software helps you:
 - Separate business and personal costs
 - Prepare for Self Assessment
 
-If you want a simple way to track expenses and stay compliant, compare [accounting software for tracking sole trader expenses](/best/accounting-software-sole-trader/).
+If you want a simple way to organise the records behind your expenses, start with [how to track income and expenses as a sole trader](/guides/accounting-software/track-income-expenses-sole-trader/) and [sole trader record keeping requirements](/guides/accounting-software/sole-trader-record-keeping-requirements/).
+
+If your records are becoming too manual, compare [accounting software for tracking sole trader expenses](/best/accounting-software-sole-trader/).
 
 ---
 

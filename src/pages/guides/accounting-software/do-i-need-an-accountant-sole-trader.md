@@ -103,7 +103,7 @@ Typical cost: £200–£400/year
 ## Next step
 
 1. Use [accounting software](/best/accounting-software-sole-trader/)  
-2. Connect your [bank account](/best/business-bank-accounts-sole-trader/)  
+2. Connect your [bank account](/guides/banking/best-business-bank-account-sole-trader/)  
 3. Reassess after your first tax return  
 4. At £40k+, consider structure  
 

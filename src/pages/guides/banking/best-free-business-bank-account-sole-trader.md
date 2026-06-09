@@ -43,7 +43,7 @@ If you already use Monzo personally, Monzo Business Lite may feel familiar, but 
 
 Choose the free account that matches your transactions, not the one with the longest feature list. For many sole traders, the best first step is a simple free account used only for business income and business expenses.
 
-Once it is open, use it consistently. That habit matters more than picking a perfect bank on day one.
+Once it is open, use it consistently. That habit matters more than picking a perfect bank on day one. The next step is usually a simple [sole trader bookkeeping system](/guides/accounting-software/sole-trader-bookkeeping/) for income, expenses, and receipts.
 
 ## FAQ
 

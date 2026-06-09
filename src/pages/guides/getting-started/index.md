@@ -27,4 +27,4 @@ If you're starting a sole trader business in the UK, these guides walk you throu
 ## Next steps
 
 - [Best Business Bank Accounts for Sole Traders](/guides/banking/best-business-bank-account-sole-trader)
-- [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader)
+- [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader/)

@@ -31,7 +31,7 @@ After registration, these are the most important decisions:
 
 - [Do I need a business bank account as a sole trader?](/guides/banking/do-i-need-business-bank-account-sole-trader/)
 - [Best Business Bank Accounts for Sole Traders](/guides/banking/best-business-bank-account-sole-trader)
-- [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader)
+- [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader/)
 - [sole trader expenses list UK](/guides/tax/sole-trader-expenses-list-uk/)
 
 </div>
@@ -56,6 +56,9 @@ After registration, these are the most important decisions:
 
 ### Accounting and bookkeeping
 
+- [Sole Trader Bookkeeping UK](/guides/accounting-software/sole-trader-bookkeeping/)
+- [Sole Trader Record Keeping Requirements](/guides/accounting-software/sole-trader-record-keeping-requirements/)
+- [Track Income and Expenses as a Sole Trader](/guides/accounting-software/track-income-expenses-sole-trader/)
 - [Do I Need an Accountant as a Sole Trader?](/guides/accounting-software/do-i-need-an-accountant-sole-trader)
 - [How Much Does an Accountant Cost?](/guides/accounting-software/how-much-accountant-sole-trader)
 - [Bookkeeping Spreadsheet Template](/guides/accounting-software/bookkeeping-spreadsheet-template)
@@ -70,7 +73,7 @@ After registration, these are the most important decisions:
 
 If you’re choosing software, start with these:
 
-- [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader)
+- [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader/)
 - [Xero vs FreeAgent for Sole Traders](/best/xero-vs-freeagent-sole-trader)
 - [QuickBooks vs Xero for Sole Traders](/best/quickbooks-vs-xero-sole-trader)
 

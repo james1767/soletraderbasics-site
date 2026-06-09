@@ -9,7 +9,8 @@ Managing your finances properly is key as a sole trader. These guides cover ever
 
 ## Start here
 
-- [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader)
+- [Sole Trader Bookkeeping UK](/guides/accounting-software/sole-trader-bookkeeping/)
+- [Best Accounting Software for Sole Traders](/best/accounting-software-sole-trader/)
 - [Do I Need an Accountant as a Sole Trader?](/guides/accounting-software/do-i-need-an-accountant-sole-trader)
 
 ## Costs and decisions
@@ -18,6 +19,9 @@ Managing your finances properly is key as a sole trader. These guides cover ever
 
 ## Bookkeeping basics
 
+- [Sole Trader Record Keeping Requirements](/guides/accounting-software/sole-trader-record-keeping-requirements/)
+- [Track Income and Expenses as a Sole Trader](/guides/accounting-software/track-income-expenses-sole-trader/)
+- [Free Bookkeeping Software for Sole Traders](/guides/accounting-software/free-bookkeeping-software-sole-trader/)
 - [Sole Trader Record Keeping Explained](/guides/accounting-software/sole-trader-record-keeping)
 - [Bookkeeping Spreadsheet Template](/guides/accounting-software/bookkeeping-spreadsheet-template)
 
@@ -29,3 +33,4 @@ Managing your finances properly is key as a sole trader. These guides cover ever
 ## Related guides
 
 - [Best Business Bank Accounts for Sole Traders](/guides/banking/best-business-bank-account-sole-trader)
+- [Sole Trader Expenses List UK](/guides/tax/sole-trader-expenses-list-uk/)

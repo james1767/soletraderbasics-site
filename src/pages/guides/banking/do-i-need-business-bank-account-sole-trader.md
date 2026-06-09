@@ -9,7 +9,7 @@ layout: ../../../layouts/BaseLayout.astro
 
 No, sole traders in the UK do not legally need a separate business bank account. You can use a personal account, but many sole traders choose a business account to keep income, expenses, and tax records separate.
 
-A separate account can make bookkeeping easier, reduce admin, and help you track business finances as your self-employed income grows.
+A separate account can make bookkeeping easier, reduce admin, and help you track business finances as your self-employed income grows. If you are setting up your records from scratch, start with [sole trader bookkeeping UK](/guides/accounting-software/sole-trader-bookkeeping/).
 
 ## Personal vs business bank account for sole traders
 
@@ -86,15 +86,16 @@ Full comparison: [Best business bank accounts for sole traders](/guides/banking/
 
 ## Next step
 
-1. **[Open a free business bank account](/best/business-bank-accounts-sole-trader/)** — Starling, Tide, or Mettle. 10 minutes from your phone.
+1. **[Open a free business bank account](/guides/banking/best-business-bank-account-sole-trader/)** — compare Starling, Tide, Mettle, and other options.
 2. **[Connect it to accounting software](/best/accounting-software-sole-trader/)** — set up bank feeds so transactions import automatically
-3. **Start using it for all business transactions immediately** — every payment in, every expense out. Consistency from day one saves hours at tax time.
+3. **Use it consistently for business transactions** — every payment in, every expense out. Consistency from day one can save time at tax return time.
 
 ## Related banking guides
 
 - [can a sole trader use a personal bank account](/guides/banking/can-sole-trader-use-personal-bank-account/)
 - [business vs personal account for sole traders](/guides/banking/business-vs-personal-account-sole-trader/)
 - [best free business bank accounts for sole traders](/guides/banking/best-free-business-bank-account-sole-trader/)
+- [track income and expenses as a sole trader](/guides/accounting-software/track-income-expenses-sole-trader/)
 
 ## FAQ
 

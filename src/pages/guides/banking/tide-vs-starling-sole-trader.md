@@ -47,7 +47,7 @@ Here's a direct comparison to help you pick.
 
 **Broader accounting integrations.** Tide connects to Sage in addition to the big three (Xero, QuickBooks, FreeAgent). If you already use Sage, this matters. Starling's built-in tools are good for simple businesses, but if you want a dedicated third-party accounting package, Tide's integration range is wider.
 
-**More detailed expense categorisation.** Tide's auto-categorisation is more granular, which helps at [Self Assessment](/guides/self-assessment/) time. The app learns your spending patterns and gets better over time.
+**More detailed expense categorisation.** Tide's auto-categorisation is more granular, which can help when preparing [Self Assessment](/guides/tax/how-to-file-self-assessment/). The app learns your spending patterns and gets better over time.
 
 **Multi-company support.** If you run more than one business (or plan to), Tide lets you manage multiple accounts from one login. Starling treats each business as a separate app profile.
 
@@ -57,7 +57,7 @@ Here's a direct comparison to help you pick.
 
 **Choose Tide if:** you already use Sage, need more granular expense categorisation, or prefer Tide's approach to managing multiple businesses. Be aware that the free plan's 5-transfer limit means you'll likely need the £12.49/month plan fairly quickly if you're actively trading.
 
-**Or consider Mettle instead of both** if you want free accounting software bundled in. Mettle + FreeAgent (free) gives you banking, invoicing, expense tracking, and Self Assessment filing in one package at no cost. See our [full comparison of the best accounts](/best/business-bank-accounts-sole-trader/).
+**Or consider Mettle instead of both** if you want accounting software bundled in. Mettle + FreeAgent has offered banking, invoicing, expense tracking, and Self Assessment filing in one package. See our [full comparison of the best accounts](/guides/banking/best-business-bank-account-sole-trader/).
 
 ## Can I switch later?
 
@@ -69,7 +69,7 @@ The main thing: don't let the decision delay you. Both accounts are free, both a
 
 1. **Open [Starling](https://www.starlingbank.com/business-account/) or [Tide](https://www.tide.co/)** — 8–10 minutes from your phone
 2. **[Choose accounting software](/best/accounting-software-sole-trader/)** and connect it via bank feeds
-3. **Send your first [invoice](/guides/invoicing/)** — through your bank app (Tide) or accounting software (Starling)
+3. **Send your first invoice** — through your bank app, accounting software, or your usual invoice template
 
 ---
 

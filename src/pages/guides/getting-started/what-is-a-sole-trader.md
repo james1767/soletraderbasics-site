@@ -23,19 +23,19 @@ Each year, you file a Self Assessment tax return (deadline: 31 January) reportin
 
 **You keep all the profits.** After paying Income Tax and National Insurance on your profits, the money is yours. No corporation tax, no dividend paperwork, no director's salary to structure.
 
-**Bookkeeping is straightforward.** You need to keep records of your income and expenses, but you don't need to prepare formal company accounts. A simple [accounting app](/best/accounting-software-sole-trader/) connected to your [business bank account](/best/business-bank-accounts-sole-trader/) handles most of it.
+**Bookkeeping is straightforward.** You need to keep records of your income and expenses, but you don't need to prepare formal company accounts. A simple [accounting app](/best/accounting-software-sole-trader/) connected to your [business bank account](/guides/banking/best-business-bank-account-sole-trader/) handles most of it.
 
 **Your finances stay private.** Unlike a limited company, sole traders don't file public accounts at Companies House. Your turnover, profit, and business details aren't on a public register.
 
-**Minimal ongoing admin.** No annual accounts to file, no corporation tax return, no confirmation statement. Your only obligation to HMRC is one Self Assessment tax return per year (plus quarterly MTD submissions if your income is above the [Making Tax Digital threshold](/guides/making-tax-digital/)).
+**Minimal ongoing admin.** No annual accounts to file, no corporation tax return, no confirmation statement. Your main HMRC obligation is usually one Self Assessment tax return per year, unless extra rules such as digital reporting apply.
 
 **Easy to close.** If you stop trading, you tell HMRC and that's it. No formal dissolution process, no striking off at Companies House.
 
 ## The downsides
 
-**Unlimited liability.** This is the big one. You and the business are legally the same. If your business owes money, creditors can come after your personal assets — savings, car, potentially even your home. This is why [business insurance](/guides/sole-trader-insurance/) matters, even when it's not legally required.
+**Unlimited liability.** This is the big one. You and the business are legally the same. If your business owes money, creditors can come after your personal assets — savings, car, potentially even your home. This is why business insurance can matter, even when it's not legally required.
 
-**Tax efficiency has limits.** Once you're earning well above £50,000 in profit, a limited company structure can be more tax-efficient (through a combination of lower Corporation Tax and dividend income). Our [sole trader vs limited company guide](/guides/sole-trader-vs-limited-company/) explains exactly where the crossover point is.
+**Tax efficiency has limits.** Once profits rise, a limited company structure may become worth comparing because the tax and admin trade-offs can change.
 
 **Harder to raise investment.** Sole traders can't sell shares in their business. If you need external investment, you'd typically need to incorporate as a limited company.
 
@@ -64,7 +64,7 @@ The general rule: **start as a sole trader, switch to limited company only when 
 | **Admin** | One tax return/year | Annual accounts, corporation tax return, confirmation statement | Partnership tax return + individual returns |
 | **Privacy** | Private | Public accounts | Private |
 
-For a detailed comparison: [Sole trader vs limited company — which is right for you?](/guides/sole-trader-vs-limited-company/)
+For a detailed comparison, look at the differences between tax, admin, liability, and how you expect the business to grow.
 
 ## Next step
 
@@ -72,7 +72,7 @@ If sole trader sounds right for you:
 
 1. **[Register with HMRC](/guides/getting-started/register-sole-trader/)** — free, 10 minutes, all online
 2. **[Choose a business name](/guides/getting-started/sole-trader-business-name-rules/)** (or just use your own name)
-3. **[Open a business bank account](/best/business-bank-accounts-sole-trader/)** — separates personal and business money
+3. **[Open a business bank account](/guides/banking/best-business-bank-account-sole-trader/)** — separates personal and business money
 4. **[Pick accounting software](/best/accounting-software-sole-trader/)** — handles your bookkeeping and tax return
 
 ---

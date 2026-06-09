@@ -31,7 +31,7 @@ In everyday conversation, "self-employed" and "sole trader" mean the same thing 
 | **Partnership** | Two or more people share a business. Each partner is self-employed. | Unlimited (each partner) | Each partner pays Income Tax + NI on their share |
 | **Limited company director** | The business is a separate legal entity. You're technically employed by your own company. | Limited to company assets | Corporation Tax on profits, Income Tax on salary/dividends |
 
-For most people starting out, sole trader is the right choice. It takes 10 minutes to register, costs nothing, and your bookkeeping obligations are straightforward. You can always [switch to a limited company later](/guides/sole-trader-vs-limited-company/) if your business grows and the tax savings justify the extra admin.
+For most people starting out, sole trader is the right choice. It takes 10 minutes to register, costs nothing, and your bookkeeping obligations are straightforward. You can always switch to a limited company later if your business grows and the tax savings justify the extra admin.
 
 ## What about freelancers and contractors?
 
@@ -49,7 +49,7 @@ Wrong.
 Sole traders can employ staff. You'd need to register as an employer with HMRC and run PAYE, but the business structure doesn't prevent it.
 
 **"Being self-employed means I don't pay National Insurance"**
-You pay two types: Class 2 (£3.45/week, flat rate) and Class 4 (6% on profits between £12,570 and £50,270, 2% above that). These are calculated as part of your Self Assessment tax return. More detail in our [National Insurance guide](/guides/national-insurance/).
+You pay two types: Class 2 and Class 4 National Insurance. These are calculated as part of your Self Assessment tax return. More detail is included in our [sole trader tax rates guide](/guides/tax/sole-trader-tax-rates-uk/).
 
 **"I need to register a business name"**
 Not as a sole trader. You can trade under your own name or choose a trading name — no registration required. Just follow the [naming rules](/guides/getting-started/sole-trader-business-name-rules/).
@@ -59,10 +59,10 @@ Not as a sole trader. You can trade under your own name or choose a trading name
 If you're starting out on your own, the path is clear:
 
 1. **[Register as a sole trader](/guides/getting-started/register-sole-trader/)** — 10 minutes, free, all online
-2. **[Open a business bank account](/best/business-bank-accounts-sole-trader/)** — keeps your finances clean
+2. **[Open a business bank account](/guides/banking/best-business-bank-account-sole-trader/)** — keeps your finances clean
 3. **[Choose accounting software](/best/accounting-software-sole-trader/)** — tracks income, expenses, and tax automatically
 
-If you're weighing up whether to go sole trader or set up a limited company, our [sole trader vs limited company comparison](/guides/sole-trader-vs-limited-company/) breaks down the real-world differences — tax, liability, admin, and when it makes sense to switch.
+If you're weighing up whether to go sole trader or set up a limited company, compare the real-world differences carefully: tax, liability, admin, and when it makes sense to switch.
 
 ---
 

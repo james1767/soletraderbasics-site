@@ -73,13 +73,13 @@ These can work if you specifically want a high-street bank (e.g. you need branch
 
 Don't let the choice slow you down. Pick one and open it today — they're all free, they all work, and switching later is straightforward if you change your mind.
 
-Full detailed comparison with pros, cons, and opening process: [Best business bank accounts for sole traders](/best/business-bank-accounts-sole-trader/)
+Full detailed comparison with pros, cons, and opening process: [Best business bank accounts for sole traders](/guides/banking/best-business-bank-account-sole-trader/)
 
 ## Next step
 
 1. **Pick an account from the list above and open it** — 8–10 minutes from your phone. You'll need photo ID and your National Insurance number.
 2. **[Connect accounting software](/best/accounting-software-sole-trader/)** — set up bank feeds in your first sitting
-3. **Use it for every business transaction from day one** — the cleaner your records, the easier your [tax return](/guides/self-assessment/)
+3. **Use it consistently for business transactions** — cleaner records can make your [tax return](/guides/tax/how-to-file-self-assessment/) easier to prepare
 
 ---
 

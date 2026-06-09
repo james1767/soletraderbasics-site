@@ -17,17 +17,17 @@ A sole trader can go from "I have an idea" to "I'm legally in business" in a sin
 
 ## 2. Simple tax and admin
 
-You file **one Self Assessment tax return per year** (deadline: 31 January online). That's your only mandatory submission to HMRC — unless you're above the [Making Tax Digital threshold](/guides/making-tax-digital/), in which case you'll also submit quarterly digital updates.
+You file **one Self Assessment tax return per year** (deadline: 31 January online). That's usually your main HMRC submission unless extra rules apply, such as digital reporting requirements.
 
 No corporation tax return. No annual accounts at Companies House. No confirmation statement. No dividend vouchers.
 
-With decent [accounting software](/best/accounting-software-sole-trader/) connected to your [business bank account](/best/business-bank-accounts-sole-trader/), preparing your tax return takes a couple of hours. Many sole traders file it themselves without an accountant.
+With decent [accounting software](/best/accounting-software-sole-trader/) connected to your [business bank account](/guides/banking/best-business-bank-account-sole-trader/), preparing your tax return can be quicker. Many sole traders file it themselves without an accountant.
 
 ## 3. You keep all the profit
 
 After paying Income Tax and National Insurance, everything left is yours. You don't need to pay yourself a salary, declare dividends, or navigate the salary-vs-dividend calculations that limited company directors deal with.
 
-Money comes in, you pay your [expenses](/guides/sole-trader-expenses/), you pay tax on the profit, and the rest is in your pocket. Simple.
+Money comes in, you pay your [expenses](/guides/tax/sole-trader-expenses-list-uk/), you pay tax on the profit, and the rest is in your pocket. Simple.
 
 ## 4. Complete control
 
@@ -49,7 +49,7 @@ The first £1,000 of self-employed income each year is tax-free under the tradin
 
 ## 8. You can still claim expenses
 
-A common misconception is that sole traders can't deduct expenses. You absolutely can. Phone bills, travel, equipment, software subscriptions, [working from home costs](/guides/sole-trader-expenses/), professional development — all of these reduce your taxable profit.
+A common misconception is that sole traders can't deduct expenses. You can usually claim allowable business costs. Phone bills, travel, equipment, software subscriptions, [working from home costs](/guides/tax/sole-trader-working-from-home-expenses-uk/), professional development — these can reduce your taxable profit if they meet the rules.
 
 The same expenses are available to sole traders as to limited company directors. The mechanism is different (you deduct them on your tax return rather than through company accounts), but the end result — paying less tax — is the same.
 
@@ -57,9 +57,9 @@ The same expenses are available to sole traders as to limited company directors.
 
 It's worth knowing what you're trading for these benefits:
 
-- **Unlimited liability** — your personal assets are at risk if the business can't pay its debts. [Insurance](/guides/sole-trader-insurance/) mitigates this.
-- **Tax efficiency ceiling** — once profits exceed roughly £40,000–£50,000, a limited company structure can save you money through lower Corporation Tax and dividend income. See our [sole trader vs limited company comparison](/guides/sole-trader-vs-limited-company/).
-- **No company pension auto-enrolment** — you need to arrange your own [pension](/guides/sole-trader-pension/) and there's no employer contribution.
+- **Unlimited liability** — your personal assets are at risk if the business can't pay its debts. Insurance may help manage some business risks.
+- **Tax efficiency ceiling** — once profits rise, a limited company structure may become worth comparing.
+- **No company pension auto-enrolment** — you need to arrange your own pension and there's no employer contribution.
 - **Less perceived credibility** — rare, but some corporate clients prefer working with limited companies.
 
 For most people earning under £50,000, the benefits of being a sole trader significantly outweigh the downsides. The structure is designed for simplicity, and simplicity is exactly what you need when you're building something from scratch.
@@ -69,9 +69,9 @@ For most people earning under £50,000, the benefits of being a sole trader sign
 If the sole trader route sounds right:
 
 1. **[Register with HMRC](/guides/getting-started/register-sole-trader/)** — 10 minutes, free, all online
-2. **[Open a free business bank account](/best/business-bank-accounts-sole-trader/)** — keeps your money clean
+2. **[Open a free business bank account](/guides/banking/best-business-bank-account-sole-trader/)** — keeps your money clean
 3. **[Set up accounting software](/best/accounting-software-sole-trader/)** — handles bookkeeping and your tax return
-4. **Read up on [what expenses you can claim](/guides/sole-trader-expenses/)** — start saving money from day one
+4. **Read up on [what expenses you can claim](/guides/tax/sole-trader-expenses-list-uk/)** — understand the main categories from day one
 
 ---
 
