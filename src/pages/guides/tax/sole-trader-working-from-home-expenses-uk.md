@@ -21,6 +21,33 @@ You can either use HMRC’s simplified expenses flat-rate method or claim the ac
 
 ---
 
+## HMRC simplified expenses for working from home
+
+Eligible sole traders can choose simplified expenses as an optional way to calculate some working from home costs. The working from home flat rate is based on the number of hours you work from home each month:
+
+| Hours worked from home per month | Simplified expense amount |
+| --- | --- |
+| 25 to 50 hours | £10 per month |
+| 51 to 100 hours | £18 per month |
+| 101+ hours | £26 per month |
+
+This is sometimes called the HMRC working from home allowance. Some sole traders use the flat rate for simplicity, while others calculate the actual business share of their household costs instead. The right method depends on your circumstances, so this is general information rather than personalised tax advice.
+
+### Pros of simplified expenses
+
+- Easy to use
+- Less admin
+- No detailed bill splitting
+- Good for beginners
+
+### Cons of simplified expenses
+
+- May result in a smaller claim
+- Not ideal for heavy home use
+- Still requires tracking hours
+
+---
+
 ## The HMRC rule: “wholly and exclusively”
 
 HMRC allows sole traders to deduct expenses that are incurred wholly and exclusively for business purposes.
@@ -75,39 +102,6 @@ If you use the actual cost method, you may be able to claim a business proportio
 • Broadband and internet
 
 You are not claiming the whole household bill — only the business portion.
-
----
-
-## Simplified expenses method
-
-HMRC offers a simplified expenses method for working from home.
-
-Instead of calculating exact household costs, you claim a flat monthly amount based on how many hours you work from home.
-
-### HMRC flat-rate bands
-
-• 25–50 hours per month: £10  
-• 51–100 hours per month: £18  
-• 101+ hours per month: £26
-
-This covers basic running costs like heat and electricity.
-
----
-
-### Pros of simplified expenses
-
-• Easy to use  
-• Less admin  
-• No detailed bill splitting  
-• Good for beginners
-
----
-
-### Cons of simplified expenses
-
-• May result in a smaller claim  
-• Not ideal for heavy home use  
-• Still requires tracking hours
 
 ---
 
@@ -245,8 +239,7 @@ Keep:
 • Calculation notes  
 • Hours worked (for simplified method)
 
-If you want a simple way to stay organised, read:  
-/guides/accounting-software/sole-trader-record-keeping
+If you want a simple way to stay organised, read our [sole trader record-keeping guide](/guides/accounting-software/sole-trader-record-keeping/).
 
 Many sole traders use accounting software to track expenses and simplify tax.
 
