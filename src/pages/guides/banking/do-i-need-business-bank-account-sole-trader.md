@@ -7,19 +7,22 @@ layout: ../../../layouts/BaseLayout.astro
 
 ## Do I need a business bank account as a sole trader?
 
-No, sole traders in the UK do not legally need a separate business bank account. You can use a personal account, but many sole traders choose a business account to keep income, expenses, and tax records separate.
+No. UK sole traders are generally not legally required to have a separate business bank account. You can usually use a personal account, provided your records clearly show your business income and expenses.
 
-A separate account can make bookkeeping easier, reduce admin, and help you track business finances as your self-employed income grows. If you are setting up your records from scratch, start with [sole trader bookkeeping UK](/guides/accounting-software/sole-trader-bookkeeping/).
+Many sole traders still choose a business account because it makes bookkeeping, expenses, and tax records easier to manage. One important caveat: some personal bank accounts have terms that restrict business use, so check your bank's rules before relying on one for regular trading.
 
-## Personal vs business bank account for sole traders
+If you are still deciding, read [can a sole trader use a personal bank account](/guides/banking/can-sole-trader-use-personal-bank-account/) or compare a [business vs personal bank account](/guides/banking/business-vs-personal-account-sole-trader/). If you are setting up your records from scratch, start with the [accounting software and bookkeeping hub](/guides/accounting-software/).
 
-| Feature | Personal account | Business account |
+## Personal account vs business account as a sole trader
+
+| Comparison point | Personal account | Business account |
 |---|---|---|
-| Required by law | No | No |
-| Separates business money | No | Yes |
-| Easier bookkeeping | Limited | Yes |
-| Professional image | Limited | Better |
-| Accounting software links | Usually no | Often yes |
+| Legal requirement | Usually allowed for sole traders, but not required by law | Also not legally required for sole traders |
+| Separating income and expenses | Mixed with personal spending unless you track carefully | Business payments and costs are easier to keep separate |
+| Bookkeeping | More manual, especially with regular transactions | Usually cleaner because the account is business-only |
+| Professional appearance | Payments may show your personal name | Can look more business-like to clients and suppliers |
+| Bank account terms | Some banks restrict business use on personal accounts | Designed for business activity |
+| Growing the business | Can become messy as payments and expenses increase | Easier to keep using as your income, expenses, or client list grows |
 
 ## The legal position
 
@@ -99,17 +102,21 @@ Full comparison: [Best business bank accounts for sole traders](/guides/banking/
 
 ## FAQ
 
-### Do sole traders legally need a business bank account?
+### Do I need a business account as a sole trader?
 
-No. UK sole traders do not legally need a business bank account. HMRC cares that your records are accurate, not that you use a specific type of account.
+Usually, no. UK sole traders are generally not legally required to have a business bank account, but a separate account can make records and tax admin much easier.
 
-### Can I use a personal account as a sole trader?
+### Does a sole trader need a business bank account?
 
-Yes, you can use a personal account, but check your bank's terms. Some banks do not allow regular business transactions through a personal current account.
+Not by law in most cases. The main requirement is that your business income and expenses are recorded clearly, whether you use a personal or business account.
 
-### Is it better to have a separate account?
+### Can I use my personal bank account as a sole trader?
 
-For most sole traders, yes. A separate account keeps business money away from personal spending, makes bookkeeping simpler, and gives you a clearer view of income, expenses, and tax.
+Yes, but check your bank's terms. Some personal current accounts restrict business use, especially if regular client payments are coming in.
+
+### When should a sole trader open a business account?
+
+Open one when your work becomes regular, you have ongoing expenses, or you want cleaner bookkeeping. Many sole traders do it early because free accounts are available and separation saves admin later.
 
 ---
 
