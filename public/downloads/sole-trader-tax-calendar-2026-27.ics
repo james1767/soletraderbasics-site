@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SoleTraderBasics.com//UK Sole Trader Tax Calendar 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UK Sole Trader Tax Calendar 2026/27
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:20260406-tax-year-start@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:2026/27 tax year begins
+DESCRIPTION:The UK 2026/27 tax year begins. Start a clean set of sole trader business records.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260406-mtd-income-tax-start@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Making Tax Digital for Income Tax starts for some sole traders
+DESCRIPTION:Applies only if you meet the MTD for Income Tax conditions, including the relevant qualifying income threshold and Self Assessment status. Check GOV.UK/HMRC guidance.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260731-payment-on-account@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Self Assessment second payment on account
+DESCRIPTION:Second payment on account due, where relevant. Check your HMRC online account or Self Assessment statement.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260807-mtd-quarterly-update-1@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:MTD quarterly update deadline
+DESCRIPTION:First Making Tax Digital for Income Tax quarterly update deadline for users in the regime from April 2026.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261005-self-assessment-notification@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Tell HMRC if you need to complete a tax return
+DESCRIPTION:Deadline to tell HMRC you need to complete a Self Assessment tax return for the previous tax year, where this applies.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261031-paper-self-assessment@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Paper Self Assessment filing deadline
+DESCRIPTION:HMRC must receive paper Self Assessment tax returns by this date. Applies only if filing on paper.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261107-mtd-quarterly-update-2@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:MTD quarterly update deadline
+DESCRIPTION:Second Making Tax Digital for Income Tax quarterly update deadline for users in the regime from April 2026.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261230-paye-tax-code-deadline@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Self Assessment PAYE tax code collection deadline
+DESCRIPTION:Online filing deadline if you want eligible Self Assessment tax collected through your PAYE tax code.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270131-online-self-assessment@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Self Assessment online filing and payment deadline
+DESCRIPTION:Online filing and payment deadline for the 2025/26 Self Assessment tax return. Balancing payment and first payment on account may also be due.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270207-mtd-quarterly-update-3@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:MTD quarterly update deadline
+DESCRIPTION:Third Making Tax Digital for Income Tax quarterly update deadline for users in the regime from April 2026.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270406-tax-year-start@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:2027/28 tax year begins
+DESCRIPTION:The UK 2027/28 tax year begins. MTD for Income Tax expands to some people above the next qualifying income threshold.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270507-mtd-quarterly-update-4@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:MTD quarterly update deadline
+DESCRIPTION:Fourth Making Tax Digital for Income Tax quarterly update deadline for users in the regime from April 2026.
+END:VEVENT
+BEGIN:VEVENT
+UID:20280131-2026-27-self-assessment@soletraderbasics.com
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:2026/27 Self Assessment online filing and payment deadline
+DESCRIPTION:Normal online filing and payment deadline for the 2026/27 Self Assessment tax return.
+END:VEVENT
+END:VCALENDAR
