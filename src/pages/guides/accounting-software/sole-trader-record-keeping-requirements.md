@@ -53,6 +53,8 @@ Example:
 
 If you send a tax return more than 4 years late, HMRC says you need to keep records for 15 months after sending the return.
 
+For the main Self Assessment dates and year-end record checks, use the [sole trader tax and admin calendar](/guides/tax/sole-trader-tax-calendar-2026-27/).
+
 ## What counts as proof?
 
 Proof can include:

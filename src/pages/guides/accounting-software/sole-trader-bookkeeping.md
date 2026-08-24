@@ -88,6 +88,8 @@ Set aside 10 to 15 minutes each week.
 
 This is easier than waiting until January and trying to rebuild a full year from memory.
 
+For the main filing dates, payment deadlines and admin reminders, see the [UK sole trader tax calendar 2026/27](/guides/tax/sole-trader-tax-calendar-2026-27/).
+
 ## Common beginner mistakes
 
 Avoid these early problems:
