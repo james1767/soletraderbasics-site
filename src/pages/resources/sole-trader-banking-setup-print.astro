@@ -150,6 +150,9 @@ const checkedDate = new Intl.DateTimeFormat("en-GB", {
     --line: #9aa8a3;
     --soft: #eef4f1;
     --bg: #e5e7eb;
+    --sheet-width: 297mm;
+    --sheet-height: 210mm;
+    --screen-scale: min(1, calc((100vw - 32px) / var(--sheet-width)));
   }
 
   * {
@@ -163,10 +166,9 @@ const checkedDate = new Intl.DateTimeFormat("en-GB", {
   }
 
   body {
-    align-items: center;
     background: var(--bg);
     color: var(--ink);
-    display: flex;
+    display: grid;
     font-family:
       Inter,
       system-ui,
@@ -191,10 +193,27 @@ const checkedDate = new Intl.DateTimeFormat("en-GB", {
     display: grid;
     gap: 4mm;
     grid-template-rows: auto auto auto auto auto;
-    height: 210mm;
+    height: var(--sheet-height);
     overflow: hidden;
     padding: 8mm 10mm;
+    transform: scale(var(--screen-scale));
+    transform-origin: top center;
     width: 297mm;
+  }
+
+  @media screen {
+    body::after {
+      content: "";
+      display: block;
+      height: calc(var(--sheet-height) * var(--screen-scale));
+      grid-area: 1 / 1;
+      pointer-events: none;
+      width: calc(var(--sheet-width) * var(--screen-scale));
+    }
+
+    .sheet {
+      grid-area: 1 / 1;
+    }
   }
 
   .sheet-header {
@@ -340,6 +359,9 @@ const checkedDate = new Intl.DateTimeFormat("en-GB", {
 
     .sheet {
       box-shadow: none;
+      height: 210mm;
+      transform: none;
+      width: 297mm;
     }
   }
 </style>
