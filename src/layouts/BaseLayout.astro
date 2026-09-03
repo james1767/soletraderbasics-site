@@ -1,5 +1,5 @@
 ---
-const { title, description } = Astro.props;
+const { title, description, canonical, robots } = Astro.props;
 const path = Astro.url.pathname;
 ---
 
@@ -17,6 +17,8 @@ const path = Astro.url.pathname;
       name="description"
       content={description || "Simple, practical guides for UK sole traders."}
     />
+    {robots && <meta name="robots" content={robots} />}
+    {canonical && <link rel="canonical" href={canonical} />}
     <meta
       property="og:description"
       content={description || "Simple, practical guides for UK sole traders."}

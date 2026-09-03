@@ -9,6 +9,7 @@ Setting up the right bank account is one of the first and most important steps a
 
 ## Start here
 
+- [Your Sole Trader Banking Setup](/guides/banking/sole-trader-banking-setup/) — a visual guide to work out what your banking arrangement needs to cope with before you compare accounts.
 - [do you need a business bank account as a sole trader](/guides/banking/do-i-need-business-bank-account-sole-trader/)
 - [can a sole trader use a personal bank account](/guides/banking/can-sole-trader-use-personal-bank-account/)
 - [How to Open a Business Bank Account](/guides/banking/how-to-open-business-bank-account-sole-trader)

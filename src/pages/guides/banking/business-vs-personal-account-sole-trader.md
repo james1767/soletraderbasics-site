@@ -30,6 +30,8 @@ Here is the simple difference:
 
 For the fuller explanation of [sole trader business bank account rules](/guides/banking/do-i-need-business-bank-account-sole-trader/), read the main banking hub guide.
 
+Not sure which banking setup fits your business? Use our visual [Sole Trader Banking Setup guide](/guides/banking/sole-trader-banking-setup/) to work out what your banking arrangement needs to cope with before you compare accounts.
+
 ## Practical examples
 
 If you sell a few items online once or twice a year, a personal account may be fine as long as you keep good records.

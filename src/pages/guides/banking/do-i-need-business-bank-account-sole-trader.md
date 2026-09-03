@@ -13,6 +13,8 @@ Many sole traders still choose a business account because it makes bookkeeping, 
 
 If you are still deciding, read [can a sole trader use a personal bank account](/guides/banking/can-sole-trader-use-personal-bank-account/) or compare a [business vs personal bank account](/guides/banking/business-vs-personal-account-sole-trader/). If you are setting up your records from scratch, start with the [accounting software and bookkeeping hub](/guides/accounting-software/).
 
+Not sure which banking setup fits your business? Use our visual [Sole Trader Banking Setup guide](/guides/banking/sole-trader-banking-setup/) to work out what your banking arrangement needs to cope with before you compare accounts.
+
 ## Personal account vs business account as a sole trader
 
 | Comparison point | Personal account | Business account |

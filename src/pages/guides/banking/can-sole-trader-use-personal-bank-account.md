@@ -22,6 +22,8 @@ The downside is that a mixed account can become messy quickly. Personal grocerie
 
 For the wider rule of thumb, see our guide on [do you need a business bank account as a sole trader](/guides/banking/do-i-need-business-bank-account-sole-trader/).
 
+Not sure which banking setup fits your business? Use our visual [Sole Trader Banking Setup guide](/guides/banking/sole-trader-banking-setup/) to work out what your banking arrangement needs to cope with before you compare accounts.
+
 ## Practical examples
 
 If you do one small freelance job a year, a personal account may be enough. You might only need to record one payment in and a few direct costs.

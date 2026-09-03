@@ -1,0 +1,345 @@
+---
+import {
+  bankingSetupMetadata,
+  officialBankingSources,
+} from "../../lib/bankingSetup.mjs";
+
+const title = "Your Sole Trader Banking Setup | One-Sheet";
+const description =
+  "A printable one-page visual guide to sole-trader banking setup questions before comparing accounts.";
+const interactiveCanonicalUrl =
+  "https://soletraderbasics.com/guides/banking/sole-trader-banking-setup/";
+const interactiveDisplay =
+  "soletraderbasics.com/guides/banking/sole-trader-banking-setup/";
+const checkedDate = new Intl.DateTimeFormat("en-GB", {
+  month: "long",
+  year: "numeric",
+  timeZone: "Europe/London",
+}).format(new Date(`${bankingSetupMetadata.lastReviewed}T12:00:00Z`));
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href={interactiveCanonicalUrl} />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <main class="sheet" aria-labelledby="sheet-title">
+      <header class="sheet-header">
+        <div>
+          <p class="brand">Sole Trader Basics</p>
+          <h1 id="sheet-title">Your Sole Trader Banking Setup</h1>
+          <p class="subtitle">Three questions before you compare accounts.</p>
+        </div>
+        <aside class="source-box" aria-label="Currentness">
+          <p>Checked against official guidance</p>
+          <strong>{checkedDate}</strong>
+          <span>{bankingSetupMetadata.checkedAgainst}</span>
+        </aside>
+      </header>
+
+      <section class="three-questions" aria-label="Three questions">
+        <article>
+          <p class="label">The law</p>
+          <p>
+            Sole traders are not generally legally required to have a business
+            bank account.
+          </p>
+        </article>
+        <article>
+          <p class="label">The account</p>
+          <p>
+            Check whether the account you intend to use permits business
+            transactions.
+          </p>
+        </article>
+        <article>
+          <p class="label">The business</p>
+          <p>
+            Think about how much separation and banking functionality your
+            particular business needs.
+          </p>
+        </article>
+      </section>
+
+      <section class="middle" aria-label="Arrangements and money flow">
+        <div class="arrangements">
+          <article>
+            <h2>Mixed personal</h2>
+            <p>Business and personal transactions pass through one account.</p>
+          </article>
+          <article>
+            <h2>Separate</h2>
+            <p>Business money is kept operationally separate.</p>
+          </article>
+          <article>
+            <h2>Business account</h2>
+            <p>Specifically intended for business finances.</p>
+          </article>
+        </div>
+
+        <div class="mini-flow" aria-label="Mixed versus separated money flow">
+          <article>
+            <h2>Mixed</h2>
+            <p>Customer +£1,000 → one account</p>
+            <ul>
+              <li>customer</li>
+              <li>materials</li>
+              <li>mortgage</li>
+              <li>software</li>
+            </ul>
+            <strong>Which were business transactions?</strong>
+          </article>
+          <article>
+            <h2>Separated</h2>
+            <p>Customer +£1,000 → business money</p>
+            <ul>
+              <li>business costs</li>
+              <li>tax reserve</li>
+              <li>money to you</li>
+            </ul>
+            <strong>Business activity easier to identify</strong>
+          </article>
+        </div>
+      </section>
+
+      <section class="ask" aria-labelledby="ask-heading">
+        <h2 id="ask-heading">Ask yourself</h2>
+        <ul>
+          <li>□ How many business transactions will I have?</li>
+          <li>□ Will I handle cash or cheques?</li>
+          <li>□ Will customers pay directly into the account?</li>
+          <li>□ How will I identify business transactions?</li>
+          <li>□ Do I want accounting-software integration?</li>
+          <li>□ Do I need business-specific banking facilities?</li>
+        </ul>
+      </section>
+
+      <footer class="sheet-footer">
+        <p class="footer-line">Work out what you need first. Compare accounts second.</p>
+        <p>
+          Interactive resource: <strong>{interactiveDisplay}</strong>
+        </p>
+        <p>
+          Provider terms, fees and features can change. Check current
+          information directly with the provider. Official sources:
+          <a href={officialBankingSources.selfEmployedRecords.url}>HMRC records</a>
+          · <a href={officialBankingSources.businessBankAccount.url}>Business.gov.uk banking</a>
+          · <a href={officialBankingSources.companyRecords.url}>GOV.UK company records</a>
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
+
+<style>
+  @page {
+    margin: 0;
+    size: A4 landscape;
+  }
+
+  :root {
+    --paper: #ffffff;
+    --ink: #10201d;
+    --muted: #53635f;
+    --line: #9aa8a3;
+    --soft: #eef4f1;
+    --bg: #e5e7eb;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html,
+  body {
+    margin: 0;
+    min-height: 100%;
+  }
+
+  body {
+    align-items: center;
+    background: var(--bg);
+    color: var(--ink);
+    display: flex;
+    font-family:
+      Inter,
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      sans-serif;
+    justify-content: center;
+    line-height: 1.32;
+    padding: 16px;
+  }
+
+  a {
+    color: var(--ink);
+    font-weight: 800;
+    text-decoration: none;
+  }
+
+  .sheet {
+    background: var(--paper);
+    box-shadow: 0 18px 48px rgba(15, 23, 42, 0.18);
+    display: grid;
+    gap: 4mm;
+    grid-template-rows: auto auto auto auto auto;
+    height: 210mm;
+    overflow: hidden;
+    padding: 8mm 10mm;
+    width: 297mm;
+  }
+
+  .sheet-header {
+    align-items: start;
+    border-bottom: 2px solid var(--ink);
+    display: grid;
+    gap: 12mm;
+    grid-template-columns: 1fr 68mm;
+    padding-bottom: 3.5mm;
+  }
+
+  .brand,
+  .label,
+  .source-box p {
+    color: var(--muted);
+    font-size: 9pt;
+    font-weight: 900;
+    letter-spacing: 0;
+    margin: 0 0 2mm;
+    text-transform: uppercase;
+  }
+
+  h1 {
+    font-size: 27pt;
+    letter-spacing: 0;
+    line-height: 1;
+    margin: 0;
+  }
+
+  h2 {
+    font-size: 12pt;
+    letter-spacing: 0;
+    margin: 0 0 2mm;
+    text-transform: uppercase;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .subtitle {
+    font-size: 12pt;
+    font-weight: 800;
+    margin-top: 3mm;
+  }
+
+  .source-box {
+    border: 1px solid var(--ink);
+    padding: 3mm;
+  }
+
+  .source-box strong,
+  .source-box span {
+    display: block;
+  }
+
+  .three-questions,
+  .arrangements,
+  .mini-flow {
+    display: grid;
+    gap: 4mm;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .three-questions article,
+  .arrangements article,
+  .mini-flow article,
+  .ask {
+    border: 1.5px solid var(--ink);
+    padding: 3mm;
+  }
+
+  .three-questions article {
+    background: var(--soft);
+  }
+
+  .middle {
+    display: grid;
+    gap: 4mm;
+  }
+
+  .arrangements article {
+    min-height: 21mm;
+  }
+
+  .mini-flow {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .mini-flow ul {
+    display: grid;
+    gap: 2mm;
+    grid-template-columns: repeat(4, 1fr);
+    list-style: none;
+    margin: 2mm 0;
+    padding: 0;
+  }
+
+  .mini-flow li {
+    border: 1px solid var(--line);
+    font-size: 9pt;
+    padding: 2mm;
+    text-align: center;
+  }
+
+  .ask h2 {
+    margin-bottom: 1.5mm;
+  }
+
+  .ask ul {
+    columns: 2;
+    font-size: 11pt;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .ask li {
+    break-inside: avoid;
+    margin-bottom: 1.5mm;
+  }
+
+  .sheet-footer {
+    border-top: 2px solid var(--ink);
+    display: grid;
+    gap: 1mm;
+    font-size: 7.7pt;
+    padding-top: 2.5mm;
+  }
+
+  .footer-line {
+    font-size: 10pt;
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+
+  @media print {
+    body {
+      background: #ffffff;
+      display: block;
+      padding: 0;
+    }
+
+    .sheet {
+      box-shadow: none;
+    }
+  }
+</style>

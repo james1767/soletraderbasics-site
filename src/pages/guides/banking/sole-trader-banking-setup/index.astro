@@ -1,0 +1,1187 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import {
+  bankingSetupMetadata,
+  officialBankingSources,
+} from "../../../../lib/bankingSetup.mjs";
+
+const title =
+  "Sole Trader Banking Setup: Personal or Business Account? | SoleTraderBasics";
+const description =
+  "Use our visual UK sole trader banking guide to understand personal, separate and business accounts, then work out which banking features matter to you.";
+const canonicalUrl =
+  "https://soletraderbasics.com/guides/banking/sole-trader-banking-setup/";
+const checkedDate = new Intl.DateTimeFormat("en-GB", {
+  month: "long",
+  year: "numeric",
+  timeZone: "Europe/London",
+}).format(new Date(`${bankingSetupMetadata.lastReviewed}T12:00:00Z`));
+---
+
+<BaseLayout title={title} description={description} canonical={canonicalUrl}>
+  <article class="banking-setup-page">
+    <header class="banking-hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Sole trader banking worksheet</p>
+        <h1>Your Sole Trader Banking Setup</h1>
+        <p class="hero-question">Personal account, separate account or business account?</p>
+        <p class="hero-support">
+          Work out what your banking needs to do before you compare accounts.
+        </p>
+        <a class="primary-button" href="#banking-tool">Work out my setup</a>
+        <p class="support-line">About 2 minutes · No signup · No bank recommendations</p>
+      </div>
+      <div class="hero-visual" aria-label="Customer money can flow into personal, separate or business arrangements">
+        <div class="money-source">Customer money</div>
+        <div class="flow-split" aria-hidden="true"></div>
+        <div class="flow-options">
+          <span>Personal</span>
+          <span>Separate</span>
+          <span>Business</span>
+        </div>
+      </div>
+    </header>
+
+    <section class="intro-panel">
+      <p>
+        If you're a sole trader, you generally do not have to open a business
+        bank account just because you're self-employed. But that does not mean
+        every personal account can be used for business. Your bank's terms,
+        your record keeping and the way money moves through your business all
+        matter.
+      </p>
+    </section>
+
+    <section class="wide-section" aria-labelledby="three-questions-heading">
+      <h2 id="three-questions-heading">Three questions before you compare accounts</h2>
+      <div class="question-chain" aria-label="Law, account terms and practical need">
+        <article>
+          <p class="step">01 · The law</p>
+          <h3>Do I legally need a business bank account?</h3>
+          <p class="answer">Generally, no.</p>
+          <p>
+            Sole traders are not generally legally required to have a business
+            bank account.
+          </p>
+        </article>
+        <article>
+          <p class="step">02 · The account</p>
+          <h3>Can I therefore use any personal account?</h3>
+          <p class="answer">Not necessarily.</p>
+          <p>
+            Some personal accounts do not allow business transactions. Check
+            the terms of the account you intend to use or ask the provider.
+          </p>
+        </article>
+        <article>
+          <p class="step">03 · The business</p>
+          <h3>Would separating the money make things easier?</h3>
+          <p class="answer">It can.</p>
+          <p>
+            Separating business and personal finances can make business
+            transactions easier to find and records easier to manage.
+          </p>
+        </article>
+      </div>
+      <div class="teaching-points" aria-label="Core teaching points">
+        <p>No legal requirement ≠ every personal account is suitable</p>
+        <p>Separate finances ≠ automatically a business bank account</p>
+      </div>
+    </section>
+
+    <section class="wide-section" aria-labelledby="arrangements-heading">
+      <h2 id="arrangements-heading">Three banking arrangements</h2>
+      <div class="arrangement-grid">
+        <article class="arrangement-card">
+          <p class="arrangement-letter">A</p>
+          <h3>Existing personal account</h3>
+          <p>Business and personal transactions pass through the same account.</p>
+          <p>
+            You must still keep accurate records and be able to identify your
+            business transactions.
+          </p>
+          <p>Check whether your provider permits the intended business use.</p>
+        </article>
+        <article class="arrangement-card">
+          <p class="arrangement-letter">B</p>
+          <h3>Separate account</h3>
+          <p>Business money is kept operationally separate from personal money.</p>
+          <p>
+            Using a separate account for business activity can make it easier
+            to distinguish business money from personal money.
+          </p>
+          <p class="qualifier">
+            If that account is a personal banking product, separation does not
+            itself mean the provider permits business use. Check the account
+            terms.
+          </p>
+          <p class="strong-callout">Separate does not necessarily mean business account.</p>
+        </article>
+        <article class="arrangement-card">
+          <p class="arrangement-letter">C</p>
+          <h3>Business account</h3>
+          <p>A business bank account is specifically intended for business finances.</p>
+          <p>Potential practical benefits may include:</p>
+          <ul>
+            <li>cleaner separation</li>
+            <li>cash-flow tracking</li>
+            <li>business-specific lending or overdraft facilities</li>
+            <li>card/payment facilities</li>
+            <li>handling greater transaction volumes</li>
+          </ul>
+          <p class="qualifier">Features, charges and eligibility vary between providers.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="banking-tool" class="tool-section" aria-labelledby="tool-heading">
+      <div class="tool-header">
+        <p class="eyebrow">Educational orientation tool</p>
+        <h2 id="tool-heading">Build your banking requirements</h2>
+        <p>What does your banking need to cope with?</p>
+      </div>
+
+      <form id="banking-setup-form" class="tool-layout">
+        <div class="question-area">
+          <fieldset class="tool-question" data-question="scope">
+            <legend>Are you operating as a sole trader?</legend>
+            <label><input type="radio" name="scope" value="sole-trader" /> Yes - I'm a sole trader</label>
+            <label><input type="radio" name="scope" value="limited-company" /> No / I'm setting up a limited company</label>
+            <label><input type="radio" name="scope" value="not-sure" /> I'm not sure</label>
+          </fieldset>
+
+          <div id="scope-exit" class="attention-panel" hidden></div>
+
+          <div id="sole-trader-questions" hidden>
+            <fieldset class="tool-question">
+              <legend>Does the account you're considering permit the business use you intend?</legend>
+              <label><input type="radio" name="permission" value="yes" /> Yes</label>
+              <label><input type="radio" name="permission" value="no" /> No</label>
+              <label><input type="radio" name="permission" value="unknown" /> I'm not sure</label>
+            </fieldset>
+
+            <fieldset class="tool-question">
+              <legend>How much business activity do you expect through the account?</legend>
+              <label><input type="radio" name="activity" value="occasional" /> <span><strong>Occasional</strong>A few business payments or purchases.</span></label>
+              <label><input type="radio" name="activity" value="regular" /> <span><strong>Regular</strong>Business income and spending throughout the month.</span></label>
+              <label><input type="radio" name="activity" value="high" /> <span><strong>High</strong>Frequent customer payments, purchases or other business transactions.</span></label>
+            </fieldset>
+
+            <fieldset class="tool-question">
+              <legend>Will your business need to pay in cash or cheques?</legend>
+              <label><input type="radio" name="cashCheques" value="no" /> No</label>
+              <label><input type="radio" name="cashCheques" value="occasionally" /> Occasionally</label>
+              <label><input type="radio" name="cashCheques" value="regularly" /> Regularly</label>
+            </fieldset>
+
+            <fieldset class="tool-question">
+              <legend>Will customers pay directly into this account?</legend>
+              <label><input type="radio" name="customerPayments" value="rarely" /> Rarely</label>
+              <label><input type="radio" name="customerPayments" value="regularly" /> Regularly</label>
+            </fieldset>
+
+            <fieldset id="trading-name-question" class="tool-question nested-question" hidden>
+              <legend>Do you trade using a business or trading name?</legend>
+              <label><input type="radio" name="tradingName" value="yes" /> Yes</label>
+              <label><input type="radio" name="tradingName" value="no" /> No</label>
+            </fieldset>
+
+            <fieldset class="tool-question">
+              <legend>How will you identify your business transactions?</legend>
+              <label><input type="radio" name="recordOrganisation" value="easy" /> They're already easy to distinguish</label>
+              <label><input type="radio" name="recordOrganisation" value="need-separation" /> I'll need to separate them from personal spending</label>
+              <label><input type="radio" name="recordOrganisation" value="not-decided" /> I haven't decided yet</label>
+            </fieldset>
+
+            <fieldset class="tool-question">
+              <legend>Do you want your banking to connect to bookkeeping or accounting software?</legend>
+              <label><input type="radio" name="software" value="no" /> No</label>
+              <label><input type="radio" name="software" value="yes" /> Yes</label>
+              <label><input type="radio" name="software" value="not-sure" /> Not sure yet</label>
+            </fieldset>
+
+            <fieldset class="tool-question">
+              <legend>Do you expect to need business-specific banking facilities?</legend>
+              <p class="field-note">Examples: borrowing, overdraft, additional cards, payment facilities or other business services.</p>
+              <label><input type="radio" name="facilities" value="no" /> No</label>
+              <label><input type="radio" name="facilities" value="possibly" /> Possibly</label>
+              <label><input type="radio" name="facilities" value="yes" /> Yes</label>
+            </fieldset>
+
+            <div class="tool-actions">
+              <button type="button" id="show-results" class="primary-button">Show my priorities</button>
+              <button type="button" id="change-answers" class="secondary-button">Change my answers</button>
+              <button type="button" id="start-again" class="secondary-button">Start again</button>
+            </div>
+          </div>
+        </div>
+
+        <aside class="setup-panel" aria-labelledby="setup-panel-heading">
+          <details open>
+            <summary id="setup-panel-heading">Your setup so far</summary>
+            <dl id="setup-summary" class="setup-summary"></dl>
+          </details>
+        </aside>
+      </form>
+
+      <section id="results" class="results-panel" aria-labelledby="results-heading" tabindex="-1" hidden>
+        <div id="result-announcement" class="sr-only" aria-live="polite"></div>
+        <div id="permission-result" class="permission-result"></div>
+        <h2 id="results-heading">Your banking priorities</h2>
+        <p id="generated-date" class="generated-date"></p>
+        <div id="result-summary" class="result-summary"></div>
+        <div id="priority-list" class="priority-list"></div>
+        <section class="result-arrangements" aria-labelledby="result-arrangements-heading">
+          <h3 id="result-arrangements-heading">How the arrangements relate to your answers</h3>
+          <div id="arrangement-results" class="arrangement-results"></div>
+        </section>
+        <section class="provider-questions" aria-labelledby="provider-questions-heading">
+          <h3 id="provider-questions-heading">Questions to take to providers</h3>
+          <ul id="provider-question-list"></ul>
+        </section>
+        <div class="tool-actions">
+          <button type="button" id="print-priorities" class="primary-button">Print my banking priorities</button>
+          <button type="button" id="change-answers-result" class="secondary-button">Change my answers</button>
+          <button type="button" id="start-again-result" class="secondary-button">Start again</button>
+        </div>
+      </section>
+    </section>
+
+    <section class="wide-section money-flow-section" aria-labelledby="money-flow-heading">
+      <h2 id="money-flow-heading">What does separation actually change?</h2>
+      <p class="field-note">Illustrative example only.</p>
+      <div class="money-flow">
+        <article class="mixed-flow">
+          <h3>Mixed</h3>
+          <div class="flow-stack">
+            <p class="money-in">Customer +£1,000</p>
+            <p>One account</p>
+            <ul>
+              <li>+£1,000 customer</li>
+              <li>-£72 materials</li>
+              <li>-£86 supermarket</li>
+              <li>-£950 mortgage</li>
+              <li>+£400 customer</li>
+              <li>-£14 software</li>
+              <li>-£63 fuel</li>
+              <li>-£11 streaming</li>
+            </ul>
+          </div>
+          <p class="flow-end">Which were business transactions?</p>
+        </article>
+        <div class="versus" aria-hidden="true">Versus</div>
+        <article class="separated-flow">
+          <h3>Separated</h3>
+          <div class="flow-stack">
+            <p class="money-in">Customer +£1,000</p>
+            <p>Business money</p>
+            <div class="three-channel">
+              <span>Business costs</span>
+              <span>Tax reserve</span>
+              <span>Money to you</span>
+            </div>
+          </div>
+          <p class="flow-end">Business activity easier to identify</p>
+        </article>
+      </div>
+      <p class="required-qualifier">
+        HMRC does not require you to organise your banking this way. It requires
+        accurate records from which your business transactions can be identified.
+        Separate banking does not replace the underlying record-keeping
+        requirements.
+      </p>
+    </section>
+
+    <section class="wide-section" aria-labelledby="handoff-heading">
+      <h2 id="handoff-heading">Take your requirements with you</h2>
+      <div class="checklist-grid">
+        <article><h3>Account permission</h3><p>Does the provider permit the business use I intend?</p></article>
+        <article><h3>Fees</h3><p>What regular and transaction charges apply?</p></article>
+        <article><h3>Cash & cheques</h3><p>Can I deposit them in the way I need?</p></article>
+        <article><h3>Customer payments</h3><p>What payment facilities and account-name arrangements apply?</p></article>
+        <article><h3>Software</h3><p>Does it work with my bookkeeping/accounting setup?</p></article>
+        <article><h3>Borrowing & facilities</h3><p>Are the facilities I need available, and am I eligible?</p></article>
+        <article><h3>Access & support</h3><p>Do I need branch, telephone or digital-only service?</p></article>
+      </div>
+      <p class="strong-line">Work out what you need first. Compare accounts second.</p>
+    </section>
+
+    <section class="wide-section" aria-labelledby="situations-heading">
+      <h2 id="situations-heading">Common situations</h2>
+      <div class="situation-grid">
+        <article>
+          <h3>I only do occasional freelance work.</h3>
+          <p>
+            Your banking needs may be simple, but account permission and
+            adequate records still matter.
+          </p>
+        </article>
+        <article>
+          <h3>I'm a tradesperson with lots of customer payments and purchases.</h3>
+          <p>
+            Transaction organisation, separation and possibly cash or cheque
+            facilities may become more relevant.
+          </p>
+        </article>
+        <article>
+          <h3>I've opened another personal account just for the business.</h3>
+          <p>
+            Separation may help organisation, but it does not itself confirm
+            that the product permits business use.
+          </p>
+        </article>
+        <article>
+          <h3>I'm starting a limited company.</h3>
+          <p>
+            This sole-trader tool is not the correct framework. Read
+            <a href={officialBankingSources.companyRecords.url}>GOV.UK company guidance</a>.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section class="wide-section source-panel" aria-labelledby="sources-heading">
+      <h2 id="sources-heading">Checked against official guidance</h2>
+      <p>Last reviewed: {checkedDate}</p>
+      <p>
+        Provider-specific account terms, fees and features can change. Check
+        current information directly with the provider.
+      </p>
+      <ul>
+        <li><a href={officialBankingSources.selfEmployedRecords.url}>{officialBankingSources.selfEmployedRecords.title}</a></li>
+        <li><a href={officialBankingSources.businessBankAccount.url}>{officialBankingSources.businessBankAccount.title}</a></li>
+        <li><a href={officialBankingSources.companyRecords.url}>{officialBankingSources.companyRecords.title}</a></li>
+        <li><a href={officialBankingSources.businessStructure.url}>{officialBankingSources.businessStructure.title}</a></li>
+      </ul>
+    </section>
+
+    <section class="wide-section link-panel" aria-labelledby="related-heading">
+      <h2 id="related-heading">Related SoleTraderBasics guides</h2>
+      <ul>
+        <li><a href="/guides/banking/do-i-need-business-bank-account-sole-trader/">Do I Need a Business Bank Account as a Sole Trader?</a></li>
+        <li><a href="/guides/banking/can-sole-trader-use-personal-bank-account/">Can a Sole Trader Use a Personal Bank Account?</a></li>
+        <li><a href="/guides/banking/business-vs-personal-account-sole-trader/">Business vs Personal Account for a Sole Trader</a></li>
+        <li><a href="/guides/accounting-software/sole-trader-bookkeeping/">Sole Trader Bookkeeping</a></li>
+        <li><a href="/guides/accounting-software/sole-trader-record-keeping-requirements/">Sole Trader Record-Keeping Requirements</a></li>
+        <li><a href="/best/accounting-software-sole-trader/">Accounting software guidance</a></li>
+        <li><a href="/guides/banking/best-free-business-bank-account-sole-trader/">Best Free Business Bank Account for Sole Traders</a></li>
+      </ul>
+      <p><a href="/resources/sole-trader-banking-setup-print/">Adviser and workshop one-sheet</a></p>
+    </section>
+  </article>
+</BaseLayout>
+
+<script>
+  import {
+    buildBankingSetupResult,
+    getScopeResult,
+    officialBankingSources,
+  } from "../../../../lib/bankingSetup.mjs";
+
+  const form = document.querySelector("#banking-setup-form");
+  const soleTraderQuestions = document.querySelector("#sole-trader-questions");
+  const scopeExit = document.querySelector("#scope-exit");
+  const tradingNameQuestion = document.querySelector("#trading-name-question");
+  const setupSummary = document.querySelector("#setup-summary");
+  const results = document.querySelector("#results");
+  const resultAnnouncement = document.querySelector("#result-announcement");
+  const permissionResult = document.querySelector("#permission-result");
+  const generatedDate = document.querySelector("#generated-date");
+  const resultSummary = document.querySelector("#result-summary");
+  const priorityList = document.querySelector("#priority-list");
+  const arrangementResults = document.querySelector("#arrangement-results");
+  const providerQuestionList = document.querySelector("#provider-question-list");
+
+  const labels = {
+    scope: "Business structure",
+    permission: "Account permission",
+    activity: "Business activity",
+    cashCheques: "Cash or cheques",
+    customerPayments: "Customer payments",
+    tradingName: "Trading name",
+    recordOrganisation: "Record organisation",
+    software: "Software connection",
+    facilities: "Business facilities",
+  };
+
+  const valueLabels = {
+    "sole-trader": "Sole trader",
+    "limited-company": "Limited company",
+    "not-sure": "Not sure",
+    yes: "Yes",
+    no: "No",
+    unknown: "Not sure",
+    occasional: "Occasional",
+    regularly: "Regularly",
+    regular: "Regular",
+    high: "High",
+    rarely: "Rarely",
+    easy: "Already easy to distinguish",
+    "need-separation": "Need to separate from personal spending",
+    "not-decided": "Not decided yet",
+    "not-sure-yet": "Not sure yet",
+    possibly: "Possibly",
+  };
+
+  const answerNames = Object.keys(labels);
+
+  function escapeHtml(value) {
+    return String(value)
+      .replaceAll("&", "&amp;")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replaceAll('"', "&quot;");
+  }
+
+  function getAnswers() {
+    return Object.fromEntries(
+      answerNames.map((name) => [
+        name,
+        form.querySelector(`input[name="${name}"]:checked`)?.value || "",
+      ]),
+    );
+  }
+
+  function setHidden(element, shouldHide) {
+    element.hidden = shouldHide;
+  }
+
+  function updateSummary() {
+    const answers = getAnswers();
+    setupSummary.innerHTML = "";
+    for (const name of answerNames) {
+      if (!answers[name]) continue;
+      if (name === "tradingName" && answers.customerPayments !== "regularly") {
+        continue;
+      }
+      const dt = document.createElement("dt");
+      const dd = document.createElement("dd");
+      dt.textContent = labels[name];
+      dd.textContent = valueLabels[answers[name]] || answers[name];
+      setupSummary.append(dt, dd);
+    }
+    if (!setupSummary.children.length) {
+      const dt = document.createElement("dt");
+      const dd = document.createElement("dd");
+      dt.textContent = "Status";
+      dd.textContent = "No answers selected yet";
+      setupSummary.append(dt, dd);
+    }
+  }
+
+  function updateConditionalState() {
+    const answers = getAnswers();
+    const scope = getScopeResult(answers.scope);
+    setHidden(soleTraderQuestions, answers.scope !== "sole-trader");
+
+    if (answers.scope && !scope.canContinue) {
+      scopeExit.innerHTML = `
+        <h3>${escapeHtml(scope.title)}</h3>
+        <p>${escapeHtml(scope.message)}</p>
+        <p><a href="${escapeHtml(scope.link.url)}">${escapeHtml(scope.link.title)}</a></p>
+      `;
+      setHidden(scopeExit, false);
+    } else {
+      scopeExit.innerHTML = "";
+      setHidden(scopeExit, true);
+    }
+
+    setHidden(tradingNameQuestion, answers.customerPayments !== "regularly");
+    if (answers.customerPayments !== "regularly") {
+      const selectedTradingName = form.querySelector('input[name="tradingName"]:checked');
+      if (selectedTradingName) selectedTradingName.checked = false;
+    }
+
+    updateSummary();
+  }
+
+  function renderResults() {
+    const answers = getAnswers();
+    if (answers.scope !== "sole-trader") {
+      updateConditionalState();
+      return;
+    }
+
+    const result = buildBankingSetupResult(answers);
+    generatedDate.textContent = `Generated ${new Intl.DateTimeFormat("en-GB", {
+      day: "numeric",
+      month: "long",
+      year: "numeric",
+      timeZone: "Europe/London",
+    }).format(new Date())}`;
+    permissionResult.className = `permission-result ${result.permission.status}`;
+    permissionResult.innerHTML = `
+      <h3>${escapeHtml(result.permission.title)}</h3>
+      <p>${escapeHtml(result.permission.text)}</p>
+    `;
+    resultSummary.innerHTML = `
+      <p class="result-lead">${escapeHtml(result.summary.heading)}</p>
+      <p>${escapeHtml(result.summary.text)}</p>
+    `;
+
+    if (result.requirements.length) {
+      priorityList.innerHTML = result.requirements
+        .map(
+          (item) => `
+            <article class="priority-card ${escapeHtml(item.strength)}">
+              <h3>${escapeHtml(item.title)}</h3>
+              <p>${escapeHtml(item.text)}</p>
+            </article>
+          `,
+        )
+        .join("");
+    } else {
+      priorityList.innerHTML = `
+        <article class="priority-card">
+          <h3>Account permission and clear records</h3>
+          <p>No extra practical priorities have been selected yet. Account terms and accurate records still matter.</p>
+        </article>
+      `;
+    }
+
+    arrangementResults.innerHTML = result.arrangements
+      .map(
+        (arrangement) => `
+          <article>
+            <h4>${escapeHtml(arrangement.title)}</h4>
+            <p>${escapeHtml(arrangement.heading)}</p>
+            <ul>
+              ${arrangement.items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+            </ul>
+          </article>
+        `,
+      )
+      .join("");
+
+    providerQuestionList.innerHTML = result.providerQuestions.length
+      ? result.providerQuestions.map((item) => `<li>${escapeHtml(item)}</li>`).join("")
+      : `<li>Does the provider permit the business use I intend?</li>`;
+
+    setHidden(results, false);
+    resultAnnouncement.textContent = "Your banking priorities have been updated.";
+    results.focus();
+  }
+
+  function resetForm() {
+    form.reset();
+    results.hidden = true;
+    updateConditionalState();
+    document.querySelector("#banking-tool").scrollIntoView({ block: "start" });
+  }
+
+  function changeAnswers() {
+    document.querySelector("#banking-tool").scrollIntoView({ block: "start" });
+    form.querySelector("input:checked")?.focus();
+  }
+
+  form.addEventListener("change", updateConditionalState);
+  document.querySelector("#show-results").addEventListener("click", renderResults);
+  document.querySelector("#change-answers").addEventListener("click", changeAnswers);
+  document.querySelector("#start-again").addEventListener("click", resetForm);
+  document.querySelector("#change-answers-result").addEventListener("click", changeAnswers);
+  document.querySelector("#start-again-result").addEventListener("click", resetForm);
+  document.querySelector("#print-priorities").addEventListener("click", () => window.print());
+
+  updateConditionalState();
+</script>
+
+<style>
+  :global(main) {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  :global(body) {
+    background:
+      linear-gradient(180deg, #f8fafc 0%, #eef6f3 45%, #f8fafc 100%);
+  }
+
+  .banking-setup-page {
+    --ink: #10201d;
+    --muted: #53635f;
+    --surface: #ffffff;
+    --line: #9cb8ad;
+    --deep: #16423c;
+    --soft: #e9f3ef;
+    --attention: #8a5a13;
+    --attention-bg: #fff7df;
+    --confirmed: #1e6b54;
+    color: var(--ink);
+  }
+
+  .banking-hero,
+  .wide-section,
+  .intro-panel,
+  .tool-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 56px 28px;
+  }
+
+  .banking-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.25fr) minmax(280px, 0.75fr);
+    gap: 30px;
+    align-items: center;
+    min-height: 72vh;
+  }
+
+  .hero-copy h1 {
+    font-size: clamp(2.4rem, 3.3vw, 3.25rem);
+    letter-spacing: 0;
+    line-height: 1.08;
+    max-width: 720px;
+  }
+
+  .eyebrow,
+  .step,
+  .arrangement-letter,
+  .support-line,
+  .field-note {
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-transform: uppercase;
+  }
+
+  .hero-question {
+    font-size: clamp(1.25rem, 2vw, 1.7rem);
+    font-weight: 800;
+  }
+
+  .hero-support,
+  .intro-panel p,
+  .tool-header p {
+    color: var(--muted);
+    font-size: 1.12rem;
+    max-width: 760px;
+  }
+
+  .primary-button,
+  .secondary-button {
+    border: 2px solid var(--deep);
+    border-radius: 8px;
+    cursor: pointer;
+    display: inline-flex;
+    font: inherit;
+    font-weight: 800;
+    justify-content: center;
+    min-height: 48px;
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+  .primary-button {
+    background: var(--deep);
+    color: #ffffff !important;
+  }
+
+  .secondary-button {
+    background: #ffffff;
+    color: var(--deep);
+  }
+
+  .hero-visual,
+  .arrangement-card,
+  .tool-section,
+  .source-panel,
+  .link-panel {
+    background: rgba(255, 255, 255, 0.88);
+    border: 1px solid #d7e2de;
+    border-radius: 8px;
+    box-shadow: 0 18px 42px rgba(16, 32, 29, 0.08);
+  }
+
+  .hero-visual {
+    padding: 30px;
+  }
+
+  .money-source {
+    border: 2px solid var(--deep);
+    border-radius: 999px;
+    font-weight: 800;
+    margin: 0 auto;
+    max-width: 260px;
+    padding: 16px;
+    text-align: center;
+  }
+
+  .flow-split {
+    height: 94px;
+    margin: 12px auto 6px;
+    max-width: calc(100% - 58px);
+    position: relative;
+  }
+
+  .flow-split::before {
+    background:
+      linear-gradient(var(--line), var(--line)) 50% 0 / 2px 38px no-repeat,
+      linear-gradient(var(--line), var(--line)) 0 38px / 100% 2px no-repeat,
+      linear-gradient(var(--line), var(--line)) 0 38px / 2px 56px no-repeat,
+      linear-gradient(var(--line), var(--line)) 50% 38px / 2px 56px no-repeat,
+      linear-gradient(var(--line), var(--line)) 100% 38px / 2px 56px no-repeat;
+    content: "";
+    inset: 0;
+    position: absolute;
+  }
+
+  .flow-options,
+  .three-channel {
+    display: grid;
+    gap: 12px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .flow-options span,
+  .three-channel span {
+    background: var(--soft);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    font-weight: 800;
+    padding: 14px 8px;
+    text-align: center;
+  }
+
+  .intro-panel {
+    padding-top: 0;
+  }
+
+  .intro-panel p {
+    background: #ffffff;
+    border-left: 6px solid var(--deep);
+    border-radius: 8px;
+    margin: 0;
+    padding: 24px;
+  }
+
+  .wide-section h2,
+  .tool-section h2 {
+    border-top: 0;
+    font-size: clamp(1.7rem, 3vw, 2.5rem);
+    margin-top: 0;
+  }
+
+  .question-chain,
+  .arrangement-grid,
+  .situation-grid,
+  .checklist-grid,
+  .arrangement-results {
+    display: grid;
+    gap: 18px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .question-chain article,
+  .checklist-grid article,
+  .situation-grid article,
+  .arrangement-results article,
+  .priority-card {
+    background: #ffffff;
+    border: 1px solid #d7e2de;
+    border-radius: 8px;
+    padding: 20px;
+  }
+
+  .question-chain article {
+    position: relative;
+  }
+
+  .question-chain article:not(:last-child)::after {
+    color: var(--deep);
+    content: ">";
+    font-size: 1.8rem;
+    font-weight: 900;
+    position: absolute;
+    right: -18px;
+    top: 48%;
+  }
+
+  .answer,
+  .strong-callout,
+  .strong-line,
+  .flow-end {
+    color: var(--deep);
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+
+  .teaching-points {
+    display: grid;
+    gap: 14px;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 20px;
+  }
+
+  .teaching-points p,
+  .required-qualifier {
+    background: #f6fbf9;
+    border: 2px solid var(--deep);
+    border-radius: 8px;
+    font-size: 1.05rem;
+    font-weight: 900;
+    margin: 0;
+    padding: 18px;
+    text-transform: uppercase;
+  }
+
+  .arrangement-card {
+    box-shadow: none;
+    padding: 22px;
+  }
+
+  .qualifier {
+    background: #f8fafc;
+    border-left: 4px solid var(--line);
+    padding: 12px;
+  }
+
+  .tool-section {
+    margin-top: 28px;
+  }
+
+  .tool-layout {
+    display: grid;
+    gap: 24px;
+    grid-template-columns: minmax(0, 1fr) 320px;
+    align-items: start;
+  }
+
+  .tool-question {
+    border: 1px solid #d7e2de;
+    border-radius: 8px;
+    margin: 0 0 18px;
+    padding: 18px;
+  }
+
+  .tool-question legend {
+    font-size: 1.05rem;
+    font-weight: 900;
+    padding: 0 8px;
+  }
+
+  .tool-question label {
+    align-items: flex-start;
+    background: #ffffff;
+    border: 1px solid #d7e2de;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    min-height: 48px;
+    padding: 12px;
+  }
+
+  .tool-question label strong {
+    display: block;
+  }
+
+  input[type="radio"] {
+    accent-color: var(--deep);
+    height: 1.2rem;
+    margin-top: 0.2rem;
+    width: 1.2rem;
+  }
+
+  :focus-visible {
+    outline: 3px solid #0f766e;
+    outline-offset: 3px;
+  }
+
+  .nested-question {
+    background: #f6fbf9;
+  }
+
+  .attention-panel,
+  .permission-result.attention {
+    background: var(--attention-bg);
+    border: 2px solid var(--attention);
+    border-radius: 8px;
+    padding: 18px;
+  }
+
+  .permission-result.confirmed {
+    background: #eef8f4;
+    border: 2px solid var(--confirmed);
+    border-radius: 8px;
+    padding: 18px;
+  }
+
+  .setup-panel {
+    position: sticky;
+    top: 86px;
+  }
+
+  .setup-panel details {
+    background: #10201d;
+    border-radius: 8px;
+    color: #ffffff;
+    padding: 16px;
+  }
+
+  .setup-panel summary {
+    cursor: pointer;
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+
+  .setup-summary {
+    display: grid;
+    gap: 8px;
+    margin: 16px 0 0;
+  }
+
+  .setup-summary dt {
+    color: #bfd3ca;
+    font-size: 0.85rem;
+    font-weight: 800;
+  }
+
+  .setup-summary dd {
+    margin: -8px 0 6px;
+  }
+
+  .tool-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 16px;
+  }
+
+  .results-panel {
+    border-top: 2px solid #d7e2de;
+    margin-top: 30px;
+    padding-top: 28px;
+  }
+
+  .result-lead {
+    font-size: 1.15rem;
+    font-weight: 900;
+  }
+
+  .priority-list {
+    display: grid;
+    gap: 14px;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 18px;
+  }
+
+  .priority-card.strong {
+    border-width: 3px;
+  }
+
+  .money-flow {
+    align-items: stretch;
+    display: grid;
+    gap: 18px;
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  }
+
+  .money-flow article {
+    background: #ffffff;
+    border: 1px solid #d7e2de;
+    border-radius: 8px;
+    padding: 22px;
+  }
+
+  .versus {
+    align-self: center;
+    color: var(--deep);
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+
+  .flow-stack {
+    display: grid;
+    gap: 12px;
+  }
+
+  .flow-stack p,
+  .flow-stack ul {
+    border: 1px solid #d7e2de;
+    border-radius: 8px;
+    margin: 0;
+    padding: 14px;
+  }
+
+  .flow-stack ul {
+    list-style: none;
+  }
+
+  .money-in {
+    background: var(--soft);
+    font-weight: 900;
+  }
+
+  .required-qualifier {
+    margin-top: 18px;
+    text-transform: none;
+  }
+
+  .checklist-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .strong-line {
+    font-size: 1.2rem;
+    margin-top: 24px;
+  }
+
+  .source-panel ul,
+  .link-panel ul {
+    columns: 2;
+  }
+
+  .sr-only {
+    clip: rect(0 0 0 0);
+    border: 0;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  }
+
+  @media (max-width: 899px) {
+    .banking-hero,
+    .tool-layout,
+    .money-flow {
+      grid-template-columns: 1fr;
+    }
+
+    .banking-hero {
+      min-height: auto;
+      padding-top: 36px;
+    }
+
+    .primary-button {
+      width: 100%;
+    }
+
+    .question-chain,
+    .arrangement-grid,
+    .teaching-points,
+    .priority-list,
+    .arrangement-results,
+    .situation-grid,
+    .checklist-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .question-chain article:not(:last-child)::after {
+      bottom: -24px;
+      content: "v";
+      right: 50%;
+      top: auto;
+    }
+
+    .setup-panel {
+      position: static;
+    }
+
+    .setup-panel details {
+      padding: 14px;
+    }
+
+    .versus {
+      text-align: center;
+    }
+
+    .source-panel ul,
+    .link-panel ul {
+      columns: 1;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .banking-hero,
+    .wide-section,
+    .intro-panel,
+    .tool-section {
+      padding-left: 18px;
+      padding-right: 18px;
+    }
+
+    .hero-visual {
+      padding: 18px;
+    }
+
+    .flow-options,
+    .three-channel {
+      grid-template-columns: 1fr;
+    }
+
+    .flow-split {
+      height: 54px;
+      max-width: 2px;
+    }
+
+    .flow-split::after {
+      display: none;
+    }
+
+    .tool-actions {
+      display: grid;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      scroll-behavior: auto !important;
+      transition-duration: 0.001ms !important;
+    }
+  }
+
+  @media print {
+    :global(.site-header),
+    .banking-hero,
+    .intro-panel,
+    .wide-section,
+    .tool-header,
+    .question-area,
+    .setup-panel,
+    .result-arrangements,
+    #results .tool-actions {
+      display: none !important;
+    }
+
+    :global(body) {
+      background: #ffffff;
+    }
+
+    .tool-section {
+      border: 0;
+      box-shadow: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    #results {
+      display: block !important;
+      border: 0;
+      padding: 0;
+    }
+
+    .priority-list,
+    .arrangement-results {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .provider-questions,
+    .permission-result,
+    .priority-card {
+      break-inside: avoid;
+    }
+  }
+</style>
