@@ -1,0 +1,542 @@
+---
+import {
+  officialSources,
+  rulesetMetadata,
+} from "../../lib/taxJourneyRules.mjs";
+
+const title = "Your First Tax Journey as a Sole Trader | One-Sheet";
+const description =
+  "A printable one-page guide to the first UK sole-trader tax journey, from starting work to Self Assessment dates.";
+const interactiveCanonicalUrl =
+  "https://soletraderbasics.com/guides/tax/first-tax-journey-sole-trader/";
+const interactiveInputUrl =
+  "https://soletraderbasics.com/guides/tax/first-tax-journey-sole-trader/#start-date";
+const interactiveDisplay = "soletraderbasics.com";
+const checkedDate = new Intl.DateTimeFormat("en-GB", {
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+  timeZone: "Europe/London",
+}).format(new Date(`${rulesetMetadata.lastReviewed}T12:00:00Z`));
+
+const sourceLinks = [
+  officialSources.selfAssessmentDeadlines,
+  officialSources.registerForSelfAssessment,
+  officialSources.paymentsOnAccount,
+  officialSources.selfEmployedRecords,
+  officialSources.mtdEligibility,
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href={interactiveCanonicalUrl} />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <main class="sheet" aria-labelledby="sheet-title">
+      <header class="sheet-header">
+        <div>
+          <p class="brand">Sole Trader Basics</p>
+          <h1 id="sheet-title">Your First Tax Journey as a Sole Trader</h1>
+          <p class="subtitle">
+            A simple map of what can happen from the day you start working for
+            yourself to your first Self Assessment payment dates.
+          </p>
+        </div>
+        <aside class="cta" aria-labelledby="cta-heading">
+          <h2 id="cta-heading">Want your actual dates?</h2>
+          <p>Use the free interactive First Tax Journey.</p>
+          <p>
+            <a href={interactiveInputUrl}>Open the date input on {interactiveDisplay}</a>
+          </p>
+        </aside>
+      </header>
+
+      <section class="hero-journey" aria-label="First tax journey overview">
+        <div class="timeline-spine" aria-hidden="true"></div>
+        <ol class="journey">
+          <li class="event start">
+            <p class="event-label">START</p>
+            <p class="event-date">Start working</p>
+            <h2>Work for yourself</h2>
+          </li>
+
+          <li class="event trading">
+            <p class="event-label">YOU'RE TRADING</p>
+            <p class="event-date">Time passes</p>
+            <h2>Keep your records moving</h2>
+            <ul class="chips" aria-label="Things to do while trading">
+              <li>KEEP RECORDS</li>
+              <li>TRACK INCOME & EXPENSES</li>
+              <li>PUT MONEY ASIDE</li>
+            </ul>
+          </li>
+
+          <li class="event known">
+            <p class="event-label">TAX YEAR ENDS</p>
+            <p class="event-date"><span>5 APRIL</span></p>
+            <h2>Your first tax year ends</h2>
+          </li>
+
+          <li class="event conditional">
+            <p class="event-label">CHECK HMRC</p>
+            <p class="event-date"><span>5 OCTOBER</span></p>
+            <h2>Check whether you need to tell HMRC</h2>
+          </li>
+
+          <li class="event conditional january">
+            <p class="event-label">FILE & PAY</p>
+            <p class="event-date"><span>31 JANUARY</span></p>
+            <h2>If Self Assessment applies</h2>
+          </li>
+
+          <li class="event may-apply">
+            <p class="event-label">MAY APPLY</p>
+            <p class="event-date"><span>31 JULY</span></p>
+            <h2>Possible second Payment on Account</h2>
+          </li>
+        </ol>
+        <p class="journey-callout">
+          Your first January deadline may be much later than the day you start.
+        </p>
+      </section>
+
+      <section class="explainers" aria-label="Key explanations and qualifications">
+        <article class="explainer poa">
+          <h2>Why January can feel expensive</h2>
+          <p>
+            <strong>Example only:</strong> if your Self Assessment bill were
+            £3,000 and Payments on Account applied, January could include:
+          </p>
+          <p class="sum">
+            <span>£3,000 current bill</span>
+            <span>+</span>
+            <span>£1,500 first Payment on Account</span>
+            <span>=</span>
+            <strong>£4,500 in January</strong>
+          </p>
+          <p>
+            A possible second £1,500 Payment on Account could then follow in
+            July.
+          </p>
+          <p class="small">
+            Payments on Account generally do not apply if the previous Self
+            Assessment tax bill was less than £1,000, or if more than 80% of the
+            tax was collected outside Self Assessment.
+          </p>
+        </article>
+
+        <article class="explainer">
+          <h2>Some dates are conditional</h2>
+          <p>
+            Becoming a sole trader does not automatically mean every date on
+            this sheet applies. Some dates only matter if you need to use Self
+            Assessment or tell HMRC.
+          </p>
+          <p>
+            Making Tax Digital for Income Tax may create additional obligations
+            depending on qualifying income and tax year. Check the current HMRC
+            rules.
+          </p>
+        </article>
+
+        <article class="explainer visa">
+          <h2>In the UK on a visa?</h2>
+          <p>
+            This resource is for people who are permitted to work self-employed
+            in the UK. If you are in the UK on a visa, check whether
+            self-employment is permitted.
+          </p>
+        </article>
+      </section>
+
+      <footer class="sheet-footer">
+        <p>
+          Checked against {rulesetMetadata.checkedAgainst} guidance:
+          <strong>{checkedDate}</strong>
+        </p>
+        <p>
+          Official guidance:
+          {
+            sourceLinks.map((source, index) => (
+              <>
+                <a href={source.url}>{source.title}</a>
+                {index < sourceLinks.length - 1 ? " · " : ""}
+              </>
+            ))
+          }
+        </p>
+        <p>
+          Free to use and share for educational purposes with attribution to
+          SoleTraderBasics.com. Not endorsed by HMRC or GOV.UK.
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
+
+<style>
+  @page {
+    margin: 0;
+    size: A4 landscape;
+  }
+
+  :root {
+    --bg: #e5e7eb;
+    --paper: #ffffff;
+    --ink: #0f172a;
+    --muted: #475569;
+    --line: #2563eb;
+    --green: #059669;
+    --border: #cbd5e1;
+    --soft-blue: #eff6ff;
+    --soft-green: #ecfdf5;
+    --soft-yellow: #fef9c3;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html,
+  body {
+    margin: 0;
+    min-height: 100%;
+  }
+
+  body {
+    align-items: center;
+    background: var(--bg);
+    color: var(--ink);
+    display: flex;
+    font-family:
+      Inter,
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      sans-serif;
+    justify-content: center;
+    line-height: 1.35;
+    padding: 16px;
+  }
+
+  a {
+    color: #1d4ed8;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .sheet {
+    background: var(--paper);
+    box-shadow: 0 18px 48px rgba(15, 23, 42, 0.18);
+    display: grid;
+    gap: 8mm;
+    grid-template-rows: auto 1fr auto auto;
+    height: 210mm;
+    overflow: hidden;
+    padding: 11mm 12mm 9mm;
+    width: 297mm;
+  }
+
+  .sheet-header {
+    align-items: start;
+    display: grid;
+    gap: 10mm;
+    grid-template-columns: 1fr 84mm;
+  }
+
+  .brand,
+  .event-label {
+    color: var(--muted);
+    font-size: 9pt;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    margin: 0 0 2mm;
+    text-transform: uppercase;
+  }
+
+  h1 {
+    font-size: 25pt;
+    letter-spacing: 0;
+    line-height: 1;
+    margin: 0;
+  }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 11pt;
+    margin: 3mm 0 0;
+    max-width: 150mm;
+  }
+
+  .cta {
+    background: var(--soft-blue);
+    border: 1px solid #bfdbfe;
+    border-radius: 3mm;
+    padding: 4mm;
+  }
+
+  .cta h2,
+  .explainer h2 {
+    font-size: 12pt;
+    letter-spacing: 0;
+    line-height: 1.12;
+    margin: 0 0 2mm;
+  }
+
+  .cta p,
+  .explainer p,
+  .sheet-footer p {
+    margin: 0;
+  }
+
+  .cta p {
+    font-size: 9.2pt;
+  }
+
+  .hero-journey {
+    background: #f8fafc;
+    border: 1px solid var(--border);
+    border-radius: 4mm;
+    min-height: 91mm;
+    padding: 11mm 7mm 8mm;
+    position: relative;
+  }
+
+  .timeline-spine {
+    background: var(--line);
+    height: 2.2mm;
+    left: 15mm;
+    position: absolute;
+    right: 15mm;
+    top: 40mm;
+  }
+
+  .timeline-spine::after {
+    background: repeating-linear-gradient(
+      90deg,
+      #64748b 0,
+      #64748b 3mm,
+      transparent 3mm,
+      transparent 5mm
+    );
+    content: "";
+    height: 1.4mm;
+    left: 57%;
+    position: absolute;
+    right: 0;
+    top: 0.4mm;
+  }
+
+  .journey {
+    display: grid;
+    gap: 4mm;
+    grid-template-columns: 24mm 74mm 34mm 38mm 40mm 38mm;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    z-index: 1;
+  }
+
+  .event {
+    min-width: 0;
+    padding-top: 35mm;
+    position: relative;
+  }
+
+  .event::before {
+    background: var(--line);
+    border: 2mm solid #ffffff;
+    border-radius: 50%;
+    box-shadow: 0 0 0 0.8mm var(--line);
+    content: "";
+    height: 6mm;
+    left: 0;
+    position: absolute;
+    top: 24.8mm;
+    width: 6mm;
+  }
+
+  .event.conditional::before,
+  .event.may-apply::before {
+    background: #ffffff;
+  }
+
+  .event.may-apply::before {
+    box-shadow: 0 0 0 0.8mm #7c3aed;
+  }
+
+  .event.trading {
+    background: var(--soft-green);
+    border: 1px solid #bbf7d0;
+    border-radius: 4mm;
+    margin-top: 7mm;
+    padding: 6mm 6mm 6mm 14mm;
+  }
+
+  .event.trading::before {
+    background: var(--green);
+    left: 2.5mm;
+    box-shadow: 0 0 0 0.8mm var(--green);
+    top: 17.8mm;
+  }
+
+  .event-date {
+    color: var(--ink);
+    font-size: 20pt;
+    font-weight: 950;
+    letter-spacing: 0;
+    line-height: 0.94;
+    margin: 0 0 2mm;
+    text-transform: uppercase;
+  }
+
+  .event.start .event-date,
+  .event.trading .event-date {
+    font-size: 13pt;
+    line-height: 1.05;
+  }
+
+  .event h2 {
+    font-size: 10pt;
+    line-height: 1.1;
+    margin: 0;
+  }
+
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2mm;
+    list-style: none;
+    margin: 4mm 0 0;
+    padding: 0;
+  }
+
+  .chips li {
+    background: #ffffff;
+    border: 1px solid #86efac;
+    border-radius: 999px;
+    color: #166534;
+    font-size: 7.8pt;
+    font-weight: 900;
+    line-height: 1.05;
+    padding: 1.6mm 2.1mm;
+  }
+
+  .journey-callout {
+    background: var(--soft-yellow);
+    border: 1px solid #ca8a04;
+    border-radius: 999px;
+    color: #713f12;
+    font-size: 10pt;
+    font-weight: 900;
+    left: 90mm;
+    margin: 0;
+    padding: 2mm 3.5mm;
+    position: absolute;
+    top: 12mm;
+  }
+
+  .explainers {
+    display: grid;
+    gap: 4mm;
+    grid-template-columns: 1.45fr 1fr 0.78fr;
+  }
+
+  .explainer {
+    border: 1px solid var(--border);
+    border-radius: 3mm;
+    padding: 4mm;
+  }
+
+  .explainer.poa {
+    border-left: 1.8mm solid var(--line);
+  }
+
+  .explainer.visa {
+    background: #f8fafc;
+  }
+
+  .explainer p {
+    font-size: 8.6pt;
+  }
+
+  .explainer .small {
+    color: var(--muted);
+    font-size: 7.6pt;
+    margin-top: 2mm;
+  }
+
+  .sum {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.6mm;
+    margin: 2mm 0 !important;
+  }
+
+  .sum span,
+  .sum strong {
+    background: #f8fafc;
+    border: 1px solid var(--border);
+    border-radius: 2mm;
+    font-size: 8pt;
+    padding: 1.3mm 1.7mm;
+  }
+
+  .sum strong {
+    background: var(--soft-yellow);
+    border-color: #fde68a;
+  }
+
+  .sheet-footer {
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    display: grid;
+    gap: 1.3mm;
+    padding-top: 3mm;
+  }
+
+  .sheet-footer p {
+    font-size: 7.3pt;
+  }
+
+  @media print {
+    html,
+    body {
+      background: #ffffff;
+      display: block;
+      height: 210mm;
+      padding: 0;
+      width: 297mm;
+    }
+
+    .sheet {
+      box-shadow: none;
+      height: 210mm;
+      width: 297mm;
+    }
+  }
+
+  @media screen and (max-width: 980px) {
+    body {
+      align-items: start;
+      padding: 0;
+    }
+
+    .sheet {
+      height: auto;
+      min-height: 100vh;
+      overflow: visible;
+      width: 100%;
+    }
+  }
+</style>
