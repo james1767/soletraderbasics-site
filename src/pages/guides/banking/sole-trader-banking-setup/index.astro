@@ -52,6 +52,15 @@ const checkedDate = new Intl.DateTimeFormat("en-GB", {
       </p>
     </section>
 
+    <aside class="professional-callout" aria-label="Printable worksheet for professional and educational use">
+      <p class="callout-prompt">Using this with clients or students?</p>
+      <p>
+        There’s also a free
+        <a href="/resources/sole-trader-banking-setup-print/">one-page printable banking worksheet</a>
+        <span aria-hidden="true">→</span>
+      </p>
+    </aside>
+
     <section class="wide-section" aria-labelledby="three-questions-heading">
       <h2 id="three-questions-heading">Three questions before you compare accounts</h2>
       <div class="question-chain" aria-label="Law, account terms and practical need">
@@ -617,6 +626,7 @@ const checkedDate = new Intl.DateTimeFormat("en-GB", {
   .banking-hero,
   .wide-section,
   .intro-panel,
+  .professional-callout,
   .tool-section {
     max-width: 1200px;
     margin: 0 auto;
@@ -751,6 +761,7 @@ const checkedDate = new Intl.DateTimeFormat("en-GB", {
 
   .intro-panel {
     padding-top: 0;
+    padding-bottom: 18px;
   }
 
   .intro-panel p {
@@ -759,6 +770,33 @@ const checkedDate = new Intl.DateTimeFormat("en-GB", {
     border-radius: 8px;
     margin: 0;
     padding: 24px;
+  }
+
+  .professional-callout {
+    align-items: center;
+    background: #f6fbf9;
+    border: 1px solid #c8dbd4;
+    border-left: 6px solid var(--deep);
+    border-radius: 8px;
+    display: flex;
+    gap: 16px;
+    justify-content: space-between;
+    margin-bottom: 28px;
+    padding-bottom: 18px;
+    padding-top: 18px;
+  }
+
+  .professional-callout p {
+    margin: 0;
+  }
+
+  .professional-callout a {
+    color: var(--deep);
+    font-weight: 900;
+  }
+
+  .callout-prompt {
+    font-weight: 900;
   }
 
   .wide-section h2,
@@ -1100,12 +1138,18 @@ const checkedDate = new Intl.DateTimeFormat("en-GB", {
     .link-panel ul {
       columns: 1;
     }
+
+    .professional-callout {
+      align-items: flex-start;
+      flex-direction: column;
+    }
   }
 
   @media (max-width: 640px) {
     .banking-hero,
     .wide-section,
     .intro-panel,
+    .professional-callout,
     .tool-section {
       padding-left: 18px;
       padding-right: 18px;
@@ -1147,6 +1191,7 @@ const checkedDate = new Intl.DateTimeFormat("en-GB", {
     :global(.site-header),
     .banking-hero,
     .intro-panel,
+    .professional-callout,
     .wide-section,
     .tool-header,
     .question-area,
